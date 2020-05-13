@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-05-13T14:30:46.421Z</updated>
+    <updated>2020-05-13T15:07:19.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -11,220 +11,714 @@
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
     <entry>
-        <title type="html"><![CDATA[ 西岭两日：你对温泉和雪山的所有幻想]]></title>
-        <id>https://cameron-chen.github.io/post/xiling/</id>
-        <link href="https://cameron-chen.github.io/post/xiling/">
+        <title type="html"><![CDATA[2019 的复盘]]></title>
+        <id>https://cameron-chen.github.io/post/review-2019/</id>
+        <link href="https://cameron-chen.github.io/post/review-2019/">
         </link>
-        <updated>2019-01-31T12:28:40.000Z</updated>
-        <content type="html"><![CDATA[<p>年前约上几位好友，自驾去了一趟离家最近的雪山，窗含西岭总能给人惊喜，却又因为第一次去，对当地不熟留下了一些遗憾。</p>
-<p>此文一为记录惊喜和遗憾，二为有意前往的朋友提供参考。</p>
-<p>一张照骗▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/0130_25.jpg#shadow=true&amp;mirages-width=2016&amp;mirages-height=1512&amp;mirages-cdn-type=4" alt="嗯，是我拍的" loading="lazy"></p>
-<h2 id="这些事可以想一想">这些事可以想一想</h2>
-<p>西岭雪山地处成都大邑县境内，连同其东部的花水湾温泉景区一同形成了一个较完善的旅游度假区。沿线有<code>安仁古镇——中国博物馆小镇、花水湾温泉度假村、西岭雪山风景区</code>等景点。</p>
-<p>如果你对这些景点的期待是下面这样，我相信你会很满意：</p>
+        <updated>2019-12-31T15:05:36.000Z</updated>
+        <content type="html"><![CDATA[<table>
+<thead>
+<tr>
+<th style="text-align:center">Date</th>
+<th>event</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">2019.01.30</td>
+<td>××××</td>
+</tr>
+<tr>
+<td style="text-align:center">2019.03.15</td>
+<td>××××</td>
+</tr>
+<tr>
+<td style="text-align:center">2019.04.05</td>
+<td>××××××××</td>
+</tr>
+<tr>
+<td style="text-align:center">2019.07.12</td>
+<td>×××××</td>
+</tr>
+<tr>
+<td style="text-align:center">2019.10.05</td>
+<td>×××××××××</td>
+</tr>
+<tr>
+<td style="text-align:center">2019.12.03</td>
+<td>×××××</td>
+</tr>
+</tbody>
+</table>
+<p>以上是这过去一年里我所经历的高光时刻，他们为我大部分平凡又无聊的时光加上注脚，让我在通向 2020 的路上不再孤单。19 是忙碌的一年，奔跑着为新环境做准备，奔跑着适应新环境，奔跑着为下一个五年找「归宿」。</p>
+<figure data-type="image" tabindex="1"><img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1970-01-19.jpg#shadow=true&amp;mirages-width=1638&amp;mirages-height=1092&amp;mirages-cdn-type=4" alt="1970-01-19" loading="lazy"></figure>
+<h2 id="生活">生活</h2>
+<p>今年在家呆了 1/4 的时间，在川大待了 1/4 的时间，在南大待了 1/2 的时间。在家中，我是最舒适也最陌生的。在外面读了这些年书，我有些不适应起床到睡觉都窝在家中、生活起居有父母照顾、周围都是说四川话的氛围。在川大，我是最规律的。极少会见朋友，每天蹭学校图书馆，自习一天后健身，说话很少。那段时间精力很好，白天几乎不怎么犯困，享受着「To Do」一条一条被勾掉的掌控感，我很喜欢。在南大，我是最好奇的。新的环境，新的语言，新的朋友，凡此种种，让我的生活多彩了不少，同时我也有些顾不过来。</p>
+<p>三个环境对应着三种状态，在 20 年代的开头，我希望我的状态能从「3」调到「2」。</p>
+<p>阅读。今年继续我的纸书选书习惯：什么都读，乱七八糟花里胡哨全都来。有正经的《深度学习》，有理想主义色彩的《月亮与六便士》，有看不懂的《与神对话》，有实用的《柴犬绅士》，有矫正偏见的《美国种族简史》，以及《引爆点》和《今日简史》。现在在读《乔布斯传》。距离一月一本书的要求还有些差距，但纸书对我来说更多是一种消遣（借口可真妙）。希望 20 年能够赶上节奏。</p>
+<p>旅游。今年去了<strong>厦门、西岭、马来</strong>。越来越觉得旅游对我来说是一件重要的事，除了走走逛逛的消遣，还有对这个世界的认识。是的，比找一份体面的工作更加重要。</p>
+<h2 id="事业">事业</h2>
+<p>今天看到这个标题还有些怪异，我现在有「事业」？又翻了翻去年的总结，我想我当时应该想用职业生涯这个角度思考，复盘这一年对我职业生涯有什么益处。</p>
+<p>如果说去年是全面迷茫转向探索的一年，今年就是矫正加认可职业目标的一年。去年的我只知道，要选一个硕士项目，以此求得一个职业。今年我有更加清晰的路径，要用学到的知识解决哪个行业的问题，要补足哪方面的知识缺陷，这些问题都已经有了答案。剩下的是接下来这半年，踏着拟好的路线，走下去。</p>
+<p>运筹 OR 帷幄。这个因为兴趣加入的微信平台，给了我很多惊喜。从去年年末开始探索的「直播频道」已经上线了好几期，好几千名观众因为这个频道得得以接触到一线研究人员的汇报。从小编提升为副主编，细碎的事情更多，但也得以和团队更加核心的成员接触，我获益匪浅。</p>
+<h2 id="感情">感情</h2>
+<p>依照惯例，今年的感悟是：</p>
 <ul>
-<li>安仁古镇：逛古镇和博物馆，古镇的水平高于我去过的古镇里面的平均水准。原创的文创小玩意，建筑旧貌保存较为完整的古街，以及安仁号电车都是加分项。时间关系没去博物馆暂不评价，从网上评论来看还不错。</li>
-<li>花水湾：温泉酒店聚落，有高中低档酒店可以选择。得益于当地环境，我了解到的温泉酒店都是硫磺泉，是我比较喜欢的一种。至于我幻想的在雪中泡汤，估计只能在每年的 12 月左右，可遇不可求。</li>
-<li>西岭雪山：雪山冬季可分为观景和玩雪两条线。观景线在<strong>天气好的情况下</strong>能看到不可多得的美景；玩雪在半山腰，滑雪项目丰富，分为 A、B、C 三个片区，玩上一天没有问题。</li>
+<li>以自己舒适为前提来管理关系圈，能够帮助自己避免掉大部分不良关系</li>
 </ul>
-<h2 id="行程">行程</h2>
-<p>以下是一个两日行程，出发地成都，基本上这样安排能把时间充分利用。</p>
-<h3 id="概览">概览</h3>
+<h2 id="下一个一年目标">下一个一年目标</h2>
+<p>今年短期的目标是完成论文，可能的话能够出一篇 Paper。全年的目标就是接下来的 5 年有一个好的「归宿」吧。</p>
+<p>最后一点是对自己的期待：专心解决两到三件困难的事，吸收这些事里面的收获。</p>
+<h3 id="目标清单">目标清单</h3>
 <ul>
-<li>D1：上午 9.00 出发，一个多小时路程到安仁古镇。午餐在安仁古镇，下午可以在安仁古镇游玩。下午 5.00 出发，一个小时路程到花水湾。饭后逛一逛就可以去泡温泉了。</li>
-<li>D2：上午 8.00 出发，四十分钟路程到西岭雪山游客中心。进景区直接经<code>鸳鸯池索道、日月坪索道</code>上到主要观景地，这里的景点有日月坪和阴阳界。下午随<code>日月坪索道</code>下到滑雪场，可以一直在滑雪场玩，玩够了就下山回家。附官方风景：<a href="http://www.xiling.cn/website/grand_view/list">跳转</a></li>
+<li>每个月至少读一本书</li>
+<li>每天完成英语三件事打卡</li>
+<li>每周健身 3 天</li>
+<li>持续写作</li>
 </ul>
-<p>西岭雪山示意图 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/e3e9f514-d1f3-4e3a-b206-2fc5f1eea3d6-1399037.jpg#shadow=true&amp;mirages-width=600&amp;mirages-height=376&amp;mirages-cdn-type=4" alt="示意图" loading="lazy"></p>
-<h3 id="票务">票务<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></h3>
-<p>安仁古镇</p>
+<p>往年总结</p>
 <ul>
-<li>建川博物馆：一九年庆祝建国七十周年门票统一半价 60 元/人，学生 40 元/人，摆渡车 10 元/人</li>
-<li>民国街：无需门票</li>
-<li>刘氏庄园博物馆：通票 40 元/人</li>
+<li>2018 的复盘：<a href="http://www.neversettle.club/event/Analyse2018.html">http://www.neversettle.club/event/Analyse2018</a></li>
 </ul>
-<p>西岭雪山</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《月亮与六便士》：满地都是六便士]]></title>
+        <id>https://cameron-chen.github.io/post/moon/</id>
+        <link href="https://cameron-chen.github.io/post/moon/">
+        </link>
+        <updated>2019-12-23T15:04:43.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/8041724.jpg#sha=true&amp;mirages-width=403&amp;mirages-height=643&amp;mirages-cdn-type=4" alt="8041724" loading="lazy"></figure>
+<p>读完这本书是在 final 之前，据现在已经过去好一段时间，记忆像是褪色的照片，有些看不清。</p>
+<p>重新翻过一遍笔记，我看到这本书在尝试回答这样一个问题：谋生还是生活？在我视野所能触及的范围内，越来越多的人选择逃离「螺丝钉」一样的生活，他们讲「辞职」、「远程办公」、「世界这么大」。而这本书在讲：人生如梦，让我们枕着月亮<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>。</p>
+<p>一位家庭美满、事业成功的证券经纪人，一夜之间突然抛弃一切，远走他乡，从伦敦去了巴黎，没有给出任何理由，后来人们才知道，他是去那里画画。</p>
+<p>对他来说，画画是他所有的追求，除此之外，他的家庭，他的事业，甚至于他的躯壳，都是他追求艺术的限制。他是一个极端，一个理想主义者的极端。书中这样描写他对爱情的态度：</p>
+<blockquote>
+<p>爱情从来免不了多愁善感，而斯特里克兰却是我认识的人中最不吃这一套的人。我不相信，任何时候，他会去忍受爱的痴狂，他永远都受不了外在的枷锁。如果有什么东西阻碍了他那无人理解、怂恿他奔向未知事物的热望，我相信，他会毫不犹豫，将他从心里连根拔除，哪怕让他痛苦，让他遍体鳞伤，鲜血淋淋。</p>
+</blockquote>
+<p>这是作者作为朋友对主角「斯特里克兰」的总结，基于斯特里克兰所有流传的故事。如果能去仔细品味，「毫不犹豫」将自己的阻碍「连根拔除」在现实中有多困难，你会发现书中塑造的这个人物，俨然是理想主义者的一座灯塔，随时提醒着内心还有一丝丝理想的人，抬头望一望月亮。</p>
+<h2 id="参考">参考</h2>
+<p>本文参考了如下文章</p>
 <ul>
-<li>门票：120 元/人，学生 60 元/人，非学生票建议网上购买，可以身份证入园</li>
-<li>索道：188 元/人，无学生票</li>
-<li>滑雪场：全天通票 328 元/人，当天两点后通票 198 元/人。玩十四个项目，建议购买通票</li>
+<li>W. Somerset Maugham. The Moon and Sixpence [M]. 中信出版社，2018. 07</li>
 </ul>
-<h3 id="吃">吃</h3>
-<p>大邑周边的特色在安仁镇、花水湾和沿途基本都能见到。<code>肥肠血旺、柴火鸡、火盆烧烤</code>都很好吃，提前去大众或者美团看推荐就行了。</p>
-<p>花水湾何记柴火鸡 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/0130_1.jpg#shadow=true&amp;mirages-width=4032&amp;mirages-height=3024&amp;mirages-cdn-type=4" alt="何记柴火鸡" loading="lazy"></p>
-<p>安仁古镇卤猪蹄 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/3DD5E9BC-9CA0-4505-8662-40EA0B983806.jpeg#shadow=true&amp;mirages-width=4032&amp;mirages-height=3024&amp;mirages-cdn-type=4" alt="卤猪蹄" loading="lazy"></p>
-<p>安仁古镇肥肠血旺 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/35E45D63-8DC3-4DB0-A8BB-442541AC6598.jpeg#shadow=true&amp;mirages-width=4032&amp;mirages-height=3024&amp;mirages-cdn-type=4" alt="肥肠血旺" loading="lazy"></p>
-<p>安仁古镇口水鸡 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/38EB743D-580C-43C3-A115-BAA49B6DCD03.jpeg#shadow=true&amp;mirages-width=4032&amp;mirages-height=3024&amp;mirages-cdn-type=4" alt="口水鸡" loading="lazy"></p>
-<h2 id="这些坑不要碰">这些坑不要碰</h2>
-<p><strong>上山带自热食品。</strong> 第二天至少有一顿在山上解决，在滑雪场附近有餐厅，网评口感一般，价格偏贵。泡面可以在游客中心取热水，但是饭点取水人很多，要等好一会。方便米饭和方便火锅综合来看是最好的选择，找个亭子就能解决，不用专门跑到餐饮区。</p>
-<p><strong>白天场到下午 5 点。</strong> 前面提到的滑雪场通票到下午 5.00，并不包含夜场，有计划的伙伴注意咯。我当时 5.03 到滑雪中心独自凌乱。</p>
-<p><strong>错峰游玩。</strong> 早上 9 点就到景点门口，你会因此省下一大段排队的时间，且人少在日月坪拍照也省心。在上山后，先随着<code>日月坪索道</code>直接去日月坪、阴阳界玩吧，还是那句话，错峰。还有，要是阴雨天就在滑雪场玩吧，我们当天就是全程浓雾，沿途凑合看了一堆宣传图。</p>
-<p><strong>学生证。</strong> 带上学生证。规定是：本科及以下学历学生凭证购票。实际下来，只要看起来出入不太大，毕业后带上本科学生证（证件上有注销章就救不了）也是可行的，不会查太仔细，手机拍的证件照片不认可。</p>
-<h2 id="图集">图集</h2>
-<p>安仁镇文创小玩意 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934835836.jpg#shadow=true&amp;mirages-width=2944&amp;mirages-height=1962&amp;mirages-cdn-type=4" alt="文创" loading="lazy"></p>
-<p>安仁镇文创小玩意 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934858953.jpg#shadow=true&amp;mirages-width=2944&amp;mirages-height=1962&amp;mirages-cdn-type=4" alt="文创" loading="lazy"></p>
-<p>“国家宝藏”  ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934875913.jpg#shadow=true&amp;mirages-width=3656&amp;mirages-height=2437&amp;mirages-cdn-type=4" alt="国家宝藏" loading="lazy"></p>
-<p>安仁镇民国街 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934713265.jpg#shadow=true&amp;mirages-width=4032&amp;mirages-height=2688&amp;mirages-cdn-type=4" alt="民国街" loading="lazy"></p>
-<p>缆车内景 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934817292.jpg#shadow=true&amp;mirages-width=3636&amp;mirages-height=2424&amp;mirages-cdn-type=4" alt="西岭" loading="lazy"></p>
-<p>日月坪雪景 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934630475.jpg#shadow=true&amp;mirages-width=3886&amp;mirages-height=2590&amp;mirages-cdn-type=4" alt="日月坪雪景" loading="lazy"></p>
-<p>日月坪雪景 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934652984.jpg#shadow=true&amp;mirages-width=4032&amp;mirages-height=2688&amp;mirages-cdn-type=4" alt="日月坪雪景" loading="lazy"></p>
-<p>松鼠：会到你手上抢瓜子。后悔没带 ... ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934643608.jpg#shadow=true&amp;mirages-width=3144&amp;mirages-height=2096&amp;mirages-cdn-type=4" alt="松鼠" loading="lazy"></p>
-<p>篝火晚会 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934685658.jpg#shadow=true&amp;mirages-width=3968&amp;mirages-height=2645&amp;mirages-cdn-type=4" alt="篝火" loading="lazy"></p>
-<p>一场 Rio 的聚餐 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1548934616418.jpg#shadow=true&amp;mirages-width=3240&amp;mirages-height=2160&amp;mirages-cdn-type=4" alt="一场 Rio 的聚餐" loading="lazy"></p>
+<p>感谢 🎈</p>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
-<li id="fn1" class="footnote-item"><p>票务包含推荐景区门票 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+<li id="fn1" class="footnote-item"><p>本句引用自中信出版集团 《月亮与六便士》. 译后记 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2018 的复盘]]></title>
-        <id>https://cameron-chen.github.io/post/review-2018/</id>
-        <link href="https://cameron-chen.github.io/post/review-2018/">
+        <title type="html"><![CDATA[写在来狮城两月后]]></title>
+        <id>https://cameron-chen.github.io/post/Singapore/</id>
+        <link href="https://cameron-chen.github.io/post/Singapore/">
         </link>
-        <updated>2018-12-31T09:45:00.000Z</updated>
-        <content type="html"><![CDATA[<table>
-<thead>
-<tr>
-<th>Date</th>
-<th style="text-align:left">event</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>2018.03.30</td>
-<td style="text-align:left">×××</td>
-</tr>
-<tr>
-<td>2018.04.17</td>
-<td style="text-align:left">××××</td>
-</tr>
-<tr>
-<td>2018.05.15</td>
-<td style="text-align:left">×××××××××</td>
-</tr>
-<tr>
-<td>2018.06.14</td>
-<td style="text-align:left">×××××</td>
-</tr>
-<tr>
-<td>2018.06.16</td>
-<td style="text-align:left">××××××</td>
-</tr>
-<tr>
-<td>2018.06.30</td>
-<td style="text-align:left">××××</td>
-</tr>
-<tr>
-<td>2018.07.27</td>
-<td style="text-align:left">×××××</td>
-</tr>
-<tr>
-<td>2018.07.31</td>
-<td style="text-align:left">×××</td>
-</tr>
-<tr>
-<td>2018.12.08</td>
-<td style="text-align:left">××××</td>
-</tr>
-<tr>
-<td>2018.12.11</td>
-<td style="text-align:left">×××××××××</td>
-</tr>
-<tr>
-<td>2018.12.17</td>
-<td style="text-align:left">××</td>
-</tr>
-</tbody>
-</table>
-<p>以上是这过去一年里我所经历的高光时刻，他们为我大部分平凡又无聊的时光加上注脚，让我在通向 2019 的路上不再孤单。18 年可以说是生活对我撞击最大的一年，上一次有类似感觉的年份恰巧是十年前，2008。</p>
-<p>这其实是一份个人的年度复盘，所以受众坦率地说没有办法照顾到每个人。这也是我希望践行的年度复盘计划的第一实践年，阅读到的朋友可以当作岁末无聊时光里的一份消遣。</p>
-<img src="http://owncloud-c.oss-cn-shanghai.aliyuncs.com/18-12-31/69256402.jpg#shadow=true&mirages-width=3968&mirages-height=2645&mirages-cdn-type=4">
-<h2 id="生活">生活</h2>
-<p><strong>与自己的对话。</strong> 对，与自己对话，这句话像是一名孤独者常做的事。但是我想说这是一个很神奇的状态，它在我过去这四个月的生活里给了我很多帮助。</p>
-<p>过去的四个月里我都在复习备考雅思，考了三次，终于在最后一次拿到了达标成绩。下面这段话是我在第三次考试前发给我的培训老师的一段话：</p>
-<blockquote>
-<p>小猪姐，我感觉每天都不能完成任务，我要不要把学习时间再加 2 小时啊 ...</p>
-</blockquote>
-<p>对，不知道的以为我雅思要冲 7.5，其实只是在为 6.5 挣扎。那时候为了达到这个目标，我每天学 10 - 12 小时，四科同时学。对很多朋友来说，雅思 6.5 就是裸考水准，但对我来说，就像我和一位朋友提到的那样，真的就是在还过去十多年“欠英语的债”。</p>
-<p>连续四个月的学习长跑不同于以往的学习经验。这不像基础教育阶段，由老师一步一步的学习指导，最终的学习压力被放假、考试以及较长的学习周期分散；这也不同于高等教育的考核，有加权的成绩组成，即使不喜欢的课程，在学习末恶补两周也就起来了。但英语学习，由一个能力水平攀登上另一个水平，需要你实打实地练习，且回报周期是 40 天左右。在这个过程中，别人只能告诉你，有人用了某种方法有效，但你还需要在这些方法中不停试错，纠正方向，总结优化。</p>
-<p>这是一场孤独的战斗，或许战场旁边有很多人给你加油鼓劲，但是战场上只有你一个人。考雅期间出问题的例子很多，我在备考期间就出现耳朵轰响，失眠的状况，还伴随了一段接近一个月的抑郁期。这是在校学习或者工作后很难再遇到的场景，这也给了我一个机会，不得不进行一次次的“破碎 - 修复”的过程，在此基础上，进行一次次的自我探索。</p>
-<p>我觉得这样体验于一个人很重要，艰苦的过程和深刻的满足感。</p>
-<h2 id="事业">事业</h2>
-<p><strong>意外的路。</strong> 原本在今年 8 月，我应该去既定的单位就职。但是由于一些原因，我需要重新选择自己的职业路径。对于一个在大一就知道自己之后将近十年职业路径的人，即使有自己的规划，那也是十年之后的规划。所以其实，相较于同年级的同学，我的劣势很明显，方向、实习、相关技能的储备等等。找一个词来形容，就是“脱节”吧。</p>
-<p>不过很快，对比了各种成长路径，我确定下来要申请留学。虽然面临前面提到的语言、生活习惯和家庭压力等等问题，但是“不要把自己放在舒适圈吧”。这基本上就是我当时的想法。</p>
-<p>终于在 12 年末考出了雅思，接下来就是申请和实习了。</p>
-<h2 id="感情">感情</h2>
-<p>对于感情就两点:</p>
-<ul>
-<li>
-<p>善待世界，并期待世界的善待</p>
-</li>
-<li>
-<p>一生温暖纯良，不舍爱与自由</p>
-</li>
-</ul>
-<h2 id="下一个一年目标">下一个一年目标</h2>
-<p>在下一个一年里，其实大的方向已经定下来了，努力实现就好。更多是希望自己学会和这个世界相处，养成一些好习惯，持续的充电。</p>
-<h3 id="目标清单">目标清单</h3>
-<ul>
-<li>每个月至少读一本书</li>
-<li>每天学习英语 1 小时</li>
-<li>每周健身 4 天</li>
-<li>持续写作</li>
-</ul>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[将夜]]></title>
-        <id>https://cameron-chen.github.io/post/approachnight/</id>
-        <link href="https://cameron-chen.github.io/post/approachnight/">
-        </link>
-        <updated>2018-07-17T14:23:15.000Z</updated>
-        <content type="html"><![CDATA[<p>##一日将夜，万燥将息</p>
-<p>摄于紫金港，安中大楼 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/data/Picture/Bed/Typecho/%E5%B0%86%E5%A4%9C/night.jpg" alt="安中大楼" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写在汶川地震十周年]]></title>
-        <id>https://cameron-chen.github.io/post/earthquake-10-years/</id>
-        <link href="https://cameron-chen.github.io/post/earthquake-10-years/">
-        </link>
-        <updated>2018-05-13T13:12:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>每年总会有几个时间，会响起长响警笛，代表了或警醒、或纪念、或哀悼。今早听到警笛长响，脑海中浮现起这样几件小事：</p>
+        <updated>2019-10-16T15:03:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>每年总会有几个时间，会响起长响警笛，代表了或警醒、或纪念、或哀悼。今早听到警笛长响，脑海中浮现起这样几件小事：</p>
+        <content type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
 <!-- more -->
-<h2 id="我的世界大变迁">我的“世界”大变迁</h2>
-<p>我住在一个小县城，当然我并不觉得它小，相比于乡镇，这里能被称作一个“城市”。当年这个地方在空间上占据了我人生的90%。地震之后，这个县城和我脑海中的县城相比，发生了彻底的告别。被地震摇坏的、震后重新规划拆迁的，总之，自然进程下好几十年的建设都在这十年中密集的进行。</p>
-<p>在这十年我认识的“世界”不断扩张之际，我所以为的“全世界”在记忆中消失，而在现实中竟也找不到依附。之于我很遗憾。</p>
-<h2 id="大家如此团结">大家如此团结</h2>
-<p>震后的很长一段时间里，只能通过收音机了解身边发生了什么。除了政府组织的救援队、官兵，人们自发组织号召的队伍，在一段时间后，邻省甚至辐射全国的救援力量（包括社会组织、公众人物、企业家、个人…）都加入到这股救援大潮中。</p>
-<p>在往后这十年中，还能陆陆续续听到因为救援感人至深的故事，有些家庭因此连接到了一起、有的去到了从来没去过的地方、有的永远留了下来 …</p>
-<p>对所有伸出过援手的人，谢谢你们！</p>
-<h2 id="吃不完的泡面">吃不完的泡面</h2>
-<p>突然还想到一个小细节，不知道从谁口中开始传播，说震后会出现物资荒，于是大家开始没有理智地抢购（某些地方还出现哄抢）物资。结果真的出现了短暂地物资荒。</p>
-<p>在半个月到一个月地时间里，隔三差五我要靠泡面度日。</p>
-<p>小时候最喜欢的泡面一下子吃厌。现在已经很少吃泡面，看到它时唯一能想到的事是，这些当时只能用凉的瓶装矿泉水泡的速食食品救了很多人…</p>
+<p>「忙」不是今天的主题，今天想聊聊 NTU 和狮城新加坡给我的感受。</p>
+<h2 id="学校">学校</h2>
+<p>NTU 地处新加坡最西边，「我们」经常自称自己是山里的学生，这种说法并不夸张。学校地处新加坡唯二的两座山之一，旁边有一大片森林，偶尔能看到「野猪 · 🐗」和「蛇 · 🐍」。所以这个在「山区」的大学给我什么感受呢？大概可以从下面四个缩影来讲。</p>
+<h3 id="建筑">建筑</h3>
+<p>校园建筑时刻透露出「南洋风」、「绿植风」、「科技风」这样一种古典、现代、自然相互交融出的营造。</p>
+<p>「南洋风」保留了东南亚建筑的味道：便于排水的斜屋顶、色彩明亮的暖色搭配，一般是三四层楼的多层建筑。这样的建筑在学校多为本科生公寓 (Hall of Residence) ，或者教授住的单层小别墅。</p>
+<p>「绿植风」是整个狮城的风格，喜欢在建筑表面和屋顶（屋面）种上绿植，形成一种建筑和自然和谐融合的感觉，模糊了现代混凝土建筑与自然的隔阂感，是我个人很喜欢的风格。这种元素在学校的现代风建筑上表现更加突出，如留学生宿舍 (Graduate Hall 1, 2)、北山宿舍群 (North Hill) 以及网红建筑小笼包 (The Hive)。</p>
+<p>「科技风」体现在建筑的绿色节能和自动化方面。刚来的同学很容易被校园中心的「艺术、设计与传媒学院 (School of Art, Design and Media)「 它的外观吸引，实际上这座建筑获得了」绿色标志白金奖「（新加坡颁给单个建筑的最高奖项），建筑配置了很多节能节水设备，包括使用再生混凝土材料等等。说到这突然想到本科学习」绿色建筑「这门课上（PPT 里）看的各种案例。ADM 是活生生的案例。突然有点惊叹南大对绿色建筑的痴迷程度 🤔（南大有 8 项建筑获得这个奖）。</p>
+<p>南洋风格的学生宿舍 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/6.jpg#shadow=true&amp;mirages-width=2000&amp;mirages-height=1334&amp;mirages-cdn-type=4" alt="6" loading="lazy"></p>
+<p>绿植风的小笼包 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/1.jpeg#shadow=true&amp;mirages-width=1080&amp;mirages-height=810&amp;mirages-cdn-type=4" alt="1" loading="lazy"><br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/4.jpeg#shadow=true&amp;mirages-width=1080&amp;mirages-height=675&amp;mirages-cdn-type=4" alt="4" loading="lazy"><br>
+图源 <a href="http://www.sohu.com/a/279558884_744394">Sohu</a></p>
+<p>科技风的艺术、设计与传媒学院 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/2.jpg#shadow=true&amp;mirages-width=961&amp;mirages-height=721&amp;mirages-cdn-type=4" alt="2" loading="lazy"><br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/3.jpg#shadow=true&amp;mirages-width=600&amp;mirages-height=450&amp;mirages-cdn-type=4" alt="3" loading="lazy"><br>
+图源 <a href="http://ipa.adm.ntu.edu.sg/">IPA</a></p>
+<h3 id="自动化">自动化</h3>
+<p>自动化这个词在产业里谈的比较多。在学校这个场景里，自动化带来的改变还是很有限的，但是南大在这方面做了一些亮眼的尝试（至少和我本科学校比，南大在这方面是走在前面的），我觉得有必要介绍一下。</p>
+<p>我理解的自动化，首先是「电子化」，在电子化的基础上，尽量减少（最终脱离）对人力的依赖。「电子化」这在很多学校已经做了很多有益的尝试，最普遍的是「校园一卡通」技术，这个技术让同学的食堂消费、超市购物、门禁系统都集中在了一张卡上，于同学和学校都有好处。</p>
+<p>说南大在某些方面开始出现迈向「自动化」，是有下面几点感受。其一是南大现在上课都会录下来，课后会自动上传到课程管理系统，方便同学复习，当然也因此有同学已经不去上课，在电脑上看就好了（于是南大荣获「南洋网课大学」荣誉称号）；另一方面，研讨室的申请完全在网站上完成，后台根据你的申请理由审核（一般来说学生研讨室申请是秒过）通过，你就能去研讨室进行讨论了，这其实导致我最开始去研讨大楼（其实叫 ARC），以为这栋楼不能用，因为看不到工作人员 ...</p>
+<p>于是，这种自动化尝试带来了「人力需求减少」和教学方式改变这样的结果，我认为还是很有意义的。当高等教育慕课化（网络化）并与社会提供的慕课教育相互融合时，高等教育又该如何定位呢？</p>
+<h3 id="课程">课程</h3>
+<p>讲道理，对一个学校的分享，最核心的部分应该在这一节。但鉴于我申请的这个项目和我想象的样子差距蛮大，就简单介绍下吧。</p>
+<p>我所参与的项目是南大的 MSC 项目，学制一年，教授 10 门课程（也可以选 8 门课 + 论文）。课程由于要照顾兼职同学 (Part-Time Student, 在职研究生)，都设立在晚上，课程难度中等，强度一般（和美国高校对比），还是要照顾不同求学目的的同学吧。</p>
+<p>讲到这可能有人会觉得我是不是嫌弃自己的学校。没有。南大会给学生提供非常全面的求职教育（课程、研讨班、一对一咨询），提供相对宽松的个人选择（跨专业选课、申请 PhD），鼓励学生的健康成长（不是说说而已，专门设立有学生健康管理部门），这是一种很立体的教育，我相信，选择 MSC 的大多数积极进取的同学还是很满意的。只是就课程设立而言，想要学得更进一层，得靠自己。</p>
+<h3 id="排水设施">排水设施</h3>
+<p>排水？为什么会提到这个。因为这是我本科的专业方向——给排水。出于专业习惯，一个地方的给排水设施我都会看一看，有时候还能和教材里面学到的内容对应上。地处热带的南大对排水设施要求很高，毕竟这天要认真下雨，真有种天被捅破的感觉。</p>
+<p>于是校园里常常会发现教科书式的排水设计，这里展示几个细节：</p>
+<p>学校一处排水渠 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/5.jpg#shadow=true&amp;mirages-width=2000&amp;mirages-height=2000&amp;mirages-cdn-type=4" alt="5" loading="lazy"><br>
+多阶梯结构使水流不至于过快</p>
+<p>石子铺成的排水渠 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/7.jpg#shadow=true&amp;mirages-width=2000&amp;mirages-height=2000&amp;mirages-cdn-type=4" alt="7" loading="lazy"><br>
+一部分水可以被土地吸收，石子降低水速，减少了水土流失</p>
+<h2 id="新加坡">新加坡</h2>
+<p>新加坡被贴了很多标签，「亚洲四小龙」、「四大国际金融中心之一」 ... 让人想知道在这生活是什么样的感受。滨海湾当然是新加坡的形象担当，但要谈到生活，还是三个方面让我想谈一谈。</p>
+<h3 id="快递">快递</h3>
+<p>在国内习惯了「江浙沪」包邮，京东「隔日达」，对快递的感受还是过于敏感，货物如果三天还不能到就该催催卖家了。但在新加坡，可能需求不够大，竞争也不够激烈，快递服务既不「快」，价格也不「便宜」。</p>
+<p>简单举个例子：在学校吃一顿饭的正常开销是 6 新，快递首重 7 新，同城（新加坡比上海小很多）快递也能运上两三天；在上海学校一顿饭的正常开销是 15 人民币，快递首重 12 人民币（大多数时候包邮），跨省快递也是走两三天。</p>
+<p>更别提「快递柜」这样的便捷服务了。无疑比较两处服务的好坏，只能说国内快递公司在强需求和强竞争下只能被逼着提升服务了。所以，总结一下：顺丰和菜鸟，什么时候考虑来新加坡发展业务？</p>
+<h3 id="汽车限购">汽车限购</h3>
+<p>新加坡买一辆汽车不能说很难，至少和国内比起来不是很容易。新加坡的汽车都是进口，购买一辆新车除了车本身的价值，还需要付附加注册税（ARF）以及为车购买证书（COE，相当于牌照）。</p>
+<p>附加注册税从车价的 100% 起征，按照车的价格，分阶段征收 140% 和 180%（车越贵税越高）。COE 按照车的类型不同，一般来说价格是人民币 10w+。所以，在新加坡拥有一辆车的价格基本上是国内同种车型的两倍。</p>
+<p>但之所以会有这条政策，和新加坡土地不足有关。在这边直观的感受是，平日穿越市中心区域也几乎不会堵车。通过市场调控，新加坡政府严格的控制着新加坡的机车数量。虽然人们失去了拥有私家车的便利，不过换取了整个城市交通、土地的协同发展，使市民免受堵车之扰，是一种取舍的哲学了。</p>
+<h3 id="基础设施">基础设施</h3>
+<p>基础设施满足市民的基础需求，如：公共交通，供水供电，网络设施 ... 我觉得衡量基础设施建设水平体现在：人们会不会经常关注到这些基础设施。比如，一个网络建设良好的区域，人们是不会意识到网络的存在的，只有在断网的时候，我们会突然想到网络没有了。</p>
+<p>我在新加坡会关注到什么？</p>
+<p>网络。用惯了国内的 4G，在这边经常能体会到网络信号不佳带来的问题。再者是网络套餐问题，一般在这边会选择 Singtel 的基本套餐： $20（人民币 100 左右） 一定通话时间，流量 5G。办了这个套餐后，生活状态基本又变成了到一个地方就找 Wifi 连，没有连 Wifi 的地方慎重看视频。有种回到了 2014 我刚进本科后的感觉。</p>
+<p>其他方面，我在学校暂时没有感觉，新加坡该有的还是有的。</p>
+<h2 id="写在最后">写在最后</h2>
+<p>本文无意比较新加坡和其他地方谁好谁差，某些点和国内进行对比，仅是为了给大家直观感受。</p>
+<p>时隔一年再次回到学校，这感觉真好。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如何开始一场直播]]></title>
+        <id>https://cameron-chen.github.io/post/live/</id>
+        <link href="https://cameron-chen.github.io/post/live/">
+        </link>
+        <updated>2019-07-27T15:02:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
+<!-- more -->
+<p>所以将整个过程记录下来。如果只是简单的开播，你只需要看前面一小部分内容就能开始。而后面的几个环节，有需求再看就好。</p>
+<h2 id="直播软件">直播软件</h2>
+<p>直播软件分为三类：「官方桌面软件」、「官方移动端软件」和「OBS」。</p>
+<p>三者的区别是，移动端软件操作很简单，根据官方的提示就能直播，而直播形式通常也很简单，就是传输摄像头的画面；官方桌面软件根据官方教程也不难，这种选择通常能够传递更复杂的画面，如：「电脑桌面」、「网页」、「摄像头画面」；OBS 软件本身不是专为直播服务的，其能够完成「视频录制」、「视频推流」等自由度更高的工作。</p>
+<ul>
+<li>官方软件：「B 站直播姬」、「虎牙直播客户端」等，这些软件一般都有桌面和移动端两个版本</li>
+<li>OBS：推荐使用 「OBS Studio」</li>
+</ul>
+<p>接下来就以 OBS Studio 为核心软件，讲解如何开播。</p>
+<h2 id="实现环境">实现环境</h2>
+<ul>
+<li>软件：OBS Studio 23.0.2（64 bit）、Skype Win10 应用</li>
+<li>插件：NewTek NDI 3.8 Runtime</li>
+</ul>
+<h2 id="基本使用">基本使用</h2>
+<p>基本使用「吃」基本教程就好，看完下面这个教程开播就没问题了。但这个教程是「游戏主播」导向，所以如果有其他需求，比如：举办一场线上访谈 ... 请继续看后面的内容。<strong>提示</strong>：后面小节的内容请了解基本操作和术语之后继续阅读。</p>
+<p>基础教程推荐：<a href="https://space.bilibili.com/285517750?spm_id_from=333.788.b_765f7570696e666f.2">B 站 | OBS 直播教程</a></p>
+<h2 id="连麦">连麦</h2>
+<p>连麦这个需求出现于你希望让其他主播来你这「串串门」，或者你邀请了嘉宾在做一场「访谈直播」。B 站直播姬有类似叫「PK 」的功能，但是画面限制的很死，就是左边你的画面，右边另一个主播的画面。</p>
+<p>OBS 上用 Skype 的 NDI 串流<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>功能，即可将你的音视频及你通话对象的音视频传递至 OBS。准备工作如下：</p>
+<ol>
+<li>下载 OBS 插件并放置于指定位置</li>
+<li>安装插件支持：NDI Runtime</li>
+<li>Skype 允许使用 NDI 功能</li>
+<li>OBS 上添加 NDI 源</li>
+</ol>
+<p>其上步骤<code>1, 2</code>可以简化为安装「一键安装包」，地址：<a href="https://github.com/Palakis/obs-ndi/releases/tag/4.6.0">obs-ndi</a>，下载<code>obs-ndi-x.x.0-Windows-Installer.exe</code>。版本号可能不同，下载最新版就好。</p>
+<p>下载一键安装包 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/obs-ndi-windowsinstaller.jpg#shadow=true&amp;mirages-width=1870&amp;mirages-height=808&amp;mirages-cdn-type=4" alt="obs-ndi-windowsinstaller" loading="lazy"></p>
+<p>如果不能安装一键包，请跟着下面的步骤手动安装。（我安装的时候网络抽风没能装好，如果你正好也不能装不要惊讶）</p>
+<h3 id="obs-插件下载并添加至插件文件夹">OBS 插件下载，并添加至插件文件夹</h3>
+<p>下载插件包，也是同样的地址：<a href="https://github.com/Palakis/obs-ndi/releases/tag/4.6.0">obs-ndi</a>，下载<code>obs-ndi-x.x.0-Windows.zip</code>。</p>
+<p>解压之后有：<code>data</code>和<code>obs-plugins</code>两个文件夹，将这两个文件夹复制到 OBS 的安装文件夹，此文件夹应该有<code>uninstall.exe</code>程序。</p>
+<p>插件复制地址 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/obsplugins.jpg#shadow=true&amp;mirages-width=1498&amp;mirages-height=460&amp;mirages-cdn-type=4" alt="obsplugins" loading="lazy"></p>
+<h3 id="安装插件支持">安装插件支持</h3>
+<p>插件还需要单独的程序支持，一个叫「NewTek NDI Runtime」的软件。</p>
+<ul>
+<li>官方下载地址：<a href="http://new.tk/NDIRedistV3">NewTek NDI Runtime</a></li>
+<li>官网抽风时的备用地址：<a href="https://pan.baidu.com/s/1VXog8eTXuoE_dbjfrEB7yQ">云盘 | NewTek NDI 3.8 Runtime</a>，密码：<code>qqjp</code></li>
+</ul>
+<h3 id="skype-开启-ndi-传输">Skype 开启 NDI 传输</h3>
+<p>打开「设置」，点击「通话」，「高级」，开启「允许使用 NDI」。</p>
+<p>开启 Skype NDI 传输 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/SkypeNDI.jpg#shadow=true&amp;mirages-width=1404&amp;mirages-height=1187&amp;mirages-cdn-type=4" alt="SkypeNDI" loading="lazy"></p>
+<h3 id="obs-添加-ndi-源">OBS 添加 NDI 源</h3>
+<p>在 OBS 源中，选择 NDI 源。注：在视频通话之后 Skype 的源才会显示出来。</p>
+<p>OBS 中添加 NDI 源 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/addNDI.jpg#shadow=true&amp;mirages-width=2736&amp;mirages-height=1535&amp;mirages-cdn-type=4" alt="addNDI" loading="lazy"></p>
+<h2 id="弹幕">弹幕</h2>
+<p>弹幕有两种实现方式，一种直接使用软件，它会自动生成源，可以直接添加至直播画面中；另一种是网页生成弹幕，OBS 再捕捉网页源。两种方式都有对应的服务提供商。</p>
+<ul>
+<li>软件推荐：<a href="http://bilibili.danmaku.live/">弹幕库</a></li>
+<li>网页源推荐：<a href="http://www.zbmate.com/home/plugins/">智播云插件</a>，登陆并选择插件，添加网页源即可使用</li>
+</ul>
+<h2 id="ppt-广播">PPT 广播</h2>
+<p>这是一个更加小众的部分。你可以理解为：你邀请了一名嘉宾，但是他需要展示 PPT，而你在用 OBS 软件将展示过程推送出来。这样的场景下，需要用到「PPT 广播」<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>这个功能。想必你已经猜到，将「PPT 广播」生成的链接，添加到「网页源」，即可在 OBS 上看到 PPT 画面，而嘉宾可以远程控制。</p>
+<ul>
+<li>软件推荐：<a href="https://presentain.com/">Presentain</a></li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>NDI 串流：允许截取 Skype 的视频通话，并且传输给 OBS 使用。技术详情见：<a href="https://zhuanlan.zhihu.com/p/40047906">NDI网络设备接口技术简介</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>PPT 广播：将 PPT 画面远程展示出来，收看者通过链接（浏览器）查看展示内容 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[出国后，网易云音乐怎么办]]></title>
+        <id>https://cameron-chen.github.io/post/musicfromto/</id>
+        <link href="https://cameron-chen.github.io/post/musicfromto/">
+        </link>
+        <updated>2019-07-20T15:01:18.000Z</updated>
+        <summary type="html"><![CDATA[<p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
+<!-- more -->
+<p>到新加坡的第二天，照常打开电脑，戴上耳机，打开云村。突然发现在国内还正常播放的歌单被 ban 了一大半 ... 点击播放提示：「由于版权保护，您所在的地区暂时无法使用。」这句话听人说起过，当时并未在意。</p>
+<p>这时候一般有两种解决方案：「科学上网」和「换音乐软件」。对，不然用代理，让你假装还在国内；不然换一个软件，并且想办法把喜欢的歌都迁移过去。本着「入乡随俗」的原则（大概是在剑桥公社时，黑人小哥也会用微信加我好友一样的意思），我选择了第二种方案。用本土化（国际化）的软件，能够减少很多麻烦。</p>
+<h2 id="实现环境">实现环境</h2>
+<ul>
+<li>操作环境：浏览器和 Chrome 插件</li>
+<li>技术基础：浏览器基本操作</li>
+<li>实现目标：网易云歌单迁移 Apple Music</li>
+</ul>
+<h2 id="导出歌单">导出歌单</h2>
+<p>这里利用了一个油猴<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>脚本，网页登陆网易云之后，在歌单的上方有「导出歌单」按钮。歌单下载后是「TXT」格式。</p>
+<p>油猴脚本：<a href="https://greasyfork.org/zh-CN/scripts/39807-%E5%AF%BC%E5%87%BA%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E6%AD%8C%E5%8D%95">导出网易云音乐歌单</a></p>
+<blockquote>
+<p>注：先安装「油猴」插件，再添加脚本</p>
+</blockquote>
+<p>网页版网易云界面和「导出歌单」按钮 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/exportplaylist.jpg#shadow=true&amp;mirages-width=1505&amp;mirages-height=1443&amp;mirages-cdn-type=4" alt="exportplaylist" loading="lazy"></p>
+<h2 id="导入歌单">导入歌单</h2>
+<p>歌单导出在网站<a href="https://www.tunemymusic.com/zh-cn/">TuneMyMusic</a>，这个网站打通了「Spotify」、「Apple Music」等近乎国外所有的主流音乐媒体平台。</p>
+<p>打开网站，点击「上传文件」，将刚导出的「TXT」文件上传即可。接下来按照你的意愿，选择导入的平台。</p>
+<blockquote>
+<p>注：一次最多导入 1000 首歌</p>
+</blockquote>
+<p>TuneMyMusic 平台 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/tunemymusic.jpg#shadow=true&amp;mirages-width=2654&amp;mirages-height=1546&amp;mirages-cdn-type=4" alt="tunemymusic" loading="lazy"></p>
+<h2 id="其他平台迁移思路">其他平台迁移思路</h2>
+<p>整个过程分为导出和导入，导入没啥好说的。导出对不同平台给这些建议：</p>
+<ul>
+<li>QQ 音乐：腾讯导入歌单做得简单无比，甚至你直接把其他平台的「整个网页」复制下来<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>这样暴力操作，他也能帮你把歌单解析出来。但是导出显得比较困难，可能只能用 Python 自己爬，请参考：<a href="https://juejin.im/post/5b2c5b1151882574c020c767">Python抓取QQ音乐歌单并分析</a></li>
+<li>虾米音乐：虾米也可以写 Python 自己爬，或者尝试用 Chrome 解析网页源代码，Excel 里再用查找替代将歌名过滤出来</li>
+<li>Spotify：Spotify 有自己的导出歌单功能</li>
+</ul>
+<p>不过以上方法的复杂度 ... 是不是不如一首歌一首歌找回来。</p>
+<h2 id="参考">参考</h2>
+<p>本文参考了如下文章</p>
+<ul>
+<li>导入网易云音乐歌单到 Apple Music：<a href="https://www.wevg.org/archives/netease-to-apple-music/">Vigorous Pro</a></li>
+</ul>
+<p>感谢 🎈</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>油猴：一款 Chrome 插件，具体介绍，请移步 <a href="http://www.neversettle.club/skill/chrome.html">Chrome：每个领域推荐一款插件</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>复制：这里指用命令「Ctrl + A」，再「Ctrl + C」，全选网页后复制 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chrome：每个领域推荐一款插件]]></title>
+        <id>https://cameron-chen.github.io/post/chrome/</id>
+        <link href="https://cameron-chen.github.io/post/chrome/">
+        </link>
+        <updated>2019-06-30T08:00:13.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+</blockquote>
+<!-- more -->
+<blockquote>
+<p>但经常会出现这样场景：朋友和我吐槽「公众号」的阅读体验有多糟糕，但是又很喜欢「某某」写得文章；很多人吐槽「微博」的客户端怎么这么难用，发表微博的按键在屏幕右上角，一不小心碰到「返回」就刷新，你怎么就觉得我要刷新了呢 ... 不过这样的吐槽之后，好像生活仍然在继续，习惯之后，这件事好像也就偶尔引起我们的不快。</p>
+</blockquote>
+<blockquote>
+<p>每当出现这种场景，我就忍不住想告诉那个人，其实有现成的解决方案，其实不用为那一丢丢不爽妥协。</p>
+</blockquote>
+<blockquote>
+<p>所以，把自己这种想要推荐产品的冲动都放在这个专题吧。希望这个专题能给你提供这些帮助：</p>
+<ul>
+<li>你有同类的产品，但是可以引发你一丢丢对它们二者的比较</li>
+<li>你没尝试同类产品，但是发现竟然还有这方面的需求</li>
+</ul>
+</blockquote>
+<p>惯例，引用第一期的开头。</p>
+<p>Chrome 开发自谷歌，市场占有率稳居世界第一。很难说「插件」是其成功的关键（浏览器拓展的鼻祖「Firefox」现在发展远不如 Chrome），但极简的基础程序 + 五花八门的拓展插件确是很多人喜欢 Chrome 的原因。</p>
+<p>以下是<code>Chrome</code>平台的推荐：</p>
+<h2 id="脚本管理tampermonkey">脚本管理：TamperMonkey</h2>
+<p><strong>基本功能</strong></p>
+<p>大家喜欢叫 TamperMonkey 「油猴」，是一款脚本管理器。它能实现浏览器许多刚需功能。比如：...</p>
+<p>大家还是移步脚本库自己去看吧：<a href="https://greasyfork.org/zh-CN/scripts">Greasy Fork</a></p>
+<p><strong>我的体验</strong></p>
+<p>想起来还是有必要解释一下「脚本」这个东西。「脚本」可以理解成一个「小型程序」，不过这对我们用户不重要，认为它和插件一样，是一个浏览器拓展就行。</p>
+<p>很多脚本来自于网络上的朋友想要解决的实际问题。比如，在豆瓣看到喜欢的书，喜欢的电影，你希望找到资源观摩，油猴脚本就把资源链接给你列在网页里了；在「Youtube」上看到喜欢的视频，想要保存下来，油猴脚本就在视频下方给你了一个下载链接（国内视频网站同）...</p>
+<p>然后你会发现，以前需要一个软件，或者一个在线网站去解决的事，已经有人帮你用最便捷的方式实现了。</p>
+<p>豆瓣脚本效果 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/douban.jpg#shadow=true&amp;mirages-width=1283&amp;mirages-height=957&amp;mirages-cdn-type=4" alt="douban" loading="lazy"></p>
+<p>图源 <a href="https://greasyfork.org/zh-CN/scripts/329484-%E8%B1%86%E7%93%A3%E8%B5%84%E6%BA%90%E4%B8%8B%E8%BD%BD%E5%A4%A7%E5%B8%88-1%E7%A7%92%E6%90%9E%E5%AE%9A%E8%B1%86%E7%93%A3%E7%94%B5%E5%BD%B1-%E9%9F%B3%E4%B9%90-%E5%9B%BE%E4%B9%A6%E4%B8%8B%E8%BD%BD">Greasy Fork</a></p>
+<p>Youtube 脚本效果 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/youtube.jpg#shadow=true&amp;mirages-width=1822&amp;mirages-height=1531&amp;mirages-cdn-type=4" alt="youtube" loading="lazy"></p>
+<p>图源 <a href="https://greasyfork.org/zh-CN/scripts/369418-the-best-youtube-downloader-download-video-mp4-avi-mp3-hd-1080p-2k-4k-8k">Greasy Fork</a></p>
+<h2 id="网页标记liner">网页标记：LINER</h2>
+<p><strong>基本功能</strong></p>
+<p>一款能够在网页上划线（高亮文本）的插件。</p>
+<p><strong>我的体验</strong></p>
+<p>LINER 是我非常喜欢的插件，这样的场景里高亮功能非常重要：阅读文章，希望把重点标注出来；给别人分享网页，但只想让别人看某些要点。</p>
+<p>对于网页来说，每次打开它都会重新加载一次，这就注定它不是为勾勾画画设定的。LINER 将你的网页（URL）和标记都保存在它的服务器上，这样即使你刷新，标记还在。同时，登陆 LINER 网站，你的标记会被单独列在一侧，你看完文章就能直接在这看到重点的归纳。通过 LINER 分享网页时，你的标记同时也发给了朋友。</p>
+<p>很多人在看实体书、PDF 的时候都有标记的习惯，LINER 帮助我们将平台延申到了浏览器。</p>
+<p>官方演示 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/liner01.jpg#shadow=true&amp;mirages-width=640&amp;mirages-height=400&amp;mirages-cdn-type=4" alt="liner01" loading="lazy"><br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/liner02.jpg#shadow=true&amp;mirages-width=640&amp;mirages-height=400&amp;mirages-cdn-type=4" alt="liner02" loading="lazy"></p>
+<p>图源 <a href="https://chrome.google.com/webstore/detail/liner-webpdf-highlighter/bmhcbmnbenmcecpmpepghooflbehcack">Chrome 插件商店</a></p>
+<h2 id="网页摘取和保存clip-to-onenote">网页摘取和保存：Clip to OneNote</h2>
+<p><strong>基本功能</strong></p>
+<p>摘取网页并保存至 OneNote，OneNote 的官方套件。提供整页保存（可编辑）、部分截图、整页截图和书签等选项。</p>
+<p><strong>我的体验</strong></p>
+<p>OneNote 是我的主力笔记本，所以它的浏览器插件对我来说必不可少。如果你也使用 OneNote，这个插件很好用。</p>
+<h2 id="去广告净网大师">去广告：净网大师</h2>
+<p><strong>基本功能</strong></p>
+<p>拦截网页各种广告，并提供手动模式。</p>
+<p><strong>我的体验</strong></p>
+<p>这一类插件是上网的刚需。插件的选择很广泛，有人喜欢「AdBlock」，根据自己喜好选吧。</p>
+<h2 id="跨平台传输pushbullet">跨平台传输：Pushbullet</h2>
+<p><strong>基本功能</strong></p>
+<p>跨平台传输「文本」、「文件」。</p>
+<p><strong>我的体验</strong></p>
+<p>关于 Pushbullet 我在 Android 推荐中讲过，能够打通所有主流平台。浏览器插件是 PC 端的入口。</p>
+<p>具体介绍见：<a href="http://www.neversettle.club/skill/win.html">Win：每个领域推荐一款软件</a></p>
+<h2 id="这个专题有">这个专题有</h2>
+<ul>
+<li>第一篇：<a href="http://www.neversettle.club/skill/android.html">Android：每个领域推荐一款软件</a></li>
+<li>第二篇：<a href="http://www.neversettle.club/skill/win.html">Win：每个领域推荐一款软件</a></li>
+<li>第三篇：Chrome：每个领域推荐一款插件</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Win：每个领域推荐一款软件]]></title>
+        <id>https://cameron-chen.github.io/post/win/</id>
+        <link href="https://cameron-chen.github.io/post/win/">
+        </link>
+        <updated>2019-06-23T14:58:32.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+</blockquote>
+<!-- more -->
+<blockquote>
+<p>但经常会出现这样场景：朋友和我吐槽「公众号」的阅读体验有多糟糕，但是又很喜欢「某某」写得文章；很多人吐槽「微博」的客户端怎么这么难用，发表微博的按键在屏幕右上角，一不小心碰到「返回」就刷新，你怎么就觉得我要刷新了呢 ... 不过这样的吐槽之后，好像生活仍然在继续，习惯之后，这件事好像也就偶尔引起我们的不快。</p>
+</blockquote>
+<blockquote>
+<p>每当出现这种场景，我就忍不住想告诉那个人，其实有现成的解决方案，其实不用为那一丢丢不爽妥协。</p>
+</blockquote>
+<blockquote>
+<p>所以，把自己这种想要推荐产品的冲动都放在这个专题吧。希望这个专题能给你提供这些帮助：</p>
+<ul>
+<li>你有同类的产品，但是可以引发你一丢丢对它们二者的比较</li>
+<li>你没尝试同类产品，但是发现竟然还有这方面的需求</li>
+</ul>
+</blockquote>
+<p>引言来自上一期写 Android 平台的推荐。Win 平台的桌面应用质量参差不齐，商店的磁贴应用生态也很难说完善。不过 Win 在桌面设备的霸主地位还在，还有很多人电脑里跑着 Win，以及，这里真有一些好东西值得推荐。</p>
+<p>以下是<code>Windows</code>平台的推荐：</p>
+<h2 id="学术辅助wolframalpha">学术辅助：WolframAlpha</h2>
+<p>WolframAlpha 的界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/WolframAlpha.png#shadow=true&amp;mirages-width=2612&amp;mirages-height=1532&amp;mirages-cdn-type=4" alt="WolframAlpha" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>官方的定位是「在线问答系统」。和 Google 不同，它不是一个列出可能答案的筛选器，它直接返回答案。举例来说，你输入一个方程，它直接返回方程的「图像」；你输入一个积分，它直接返回积分的「解答」，甚至求解过程；你输入一道菜，它直接返回「做法」和「营养」... 比起官方定位，我更倾向于将之看成 「信息时代的私人顾问」。对 PC、iOS、Android 和 Web 都有支持。</p>
+<p><strong>我的体验</strong></p>
+<p>我了解这个软件（服务）是一个巧合，前段时间自学数学，被一些微积分的题目难住了，Google 了半天也没找到合适的解答。现在中学生都有 「搜题软件」能够使用，就试试看有没有面向大学生的类似软件。于是，发现了 WolframAlpha。</p>
+<p>WolframAlpha 在国内并不普及，至少从中文检索结果来看是这样。但这是一款被人忽视的宝藏软件。</p>
+<p>这里贴几个检索结果，供大家感受一下：</p>
+<p>检索一个积分结果 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/WolframAlphamath.png#shadow=true&amp;mirages-width=2736&amp;mirages-height=1717&amp;mirages-cdn-type=4" alt="WolframAlphamath" loading="lazy"></p>
+<p>检索一位科学家 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/WolframAlphaTuring.png#shadow=true&amp;mirages-width=2736&amp;mirages-height=1713&amp;mirages-cdn-type=4" alt="WolframAlphaTuring" loading="lazy"></p>
+<h2 id="文字识别天若-ocr">文字识别：天若 Ocr</h2>
+<p>天若 Ocr 的界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/Ocrgui.png#shadow=true&amp;mirages-width=826&amp;mirages-height=397&amp;mirages-cdn-type=4" alt="Ocrgui" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>通过 Ocr 技术，将图像中的文字识别为可编辑文字。暂确定支持 PC 端。</p>
+<p><strong>我的体验</strong></p>
+<p>Ocr 已经广泛应用开，大家比较熟悉的应该是「全能扫描王」和「WPS」提供的文字识别功能。天若是一款 Win 端软件，强在效率。直接用<code>F4</code>触发识别，在你框选出屏幕上需要识别的区域则识别出结果。</p>
+<p>识别的结果能够再处理，如「缩进」、「靠边居中处理」、「将文本合成一段」等一键式操作，识别正确率也相当不错，清晰的一页纸几乎只需要改 2、3 处。转换一篇扫描文档能节约很多时间。</p>
+<p>天若 Ocr 识别示例 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/ocr.png#shadow=true&amp;mirages-width=1664&amp;mirages-height=546&amp;mirages-cdn-type=4" alt="ocr" loading="lazy"></p>
+<h2 id="图床picgo">图床：PicGo</h2>
+<p>PicGo 的界面▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/PigGo.png#shadow=true&amp;mirages-width=1598&amp;mirages-height=902&amp;mirages-cdn-type=4" alt="PigGo" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>第三方客户端，将图片传输到「图床」，并且提供图片的<code>Url</code>。支持「SM.MS 图床」、「腾讯云 COS」、「微博图床」、「Github 图床」、「七牛图床」、「Imgur 图床」、「阿里云 OSS」、「又拍云图床」，免费和收费都囊括了。支持 PC、MacOS、Linux 端。</p>
+<p><strong>我的体验</strong></p>
+<p>对于写博文的人来说，图床是刚需。插图也是写文章里面最麻烦的部分。</p>
+<p>在我，图床客户端需要满足稳定和便利两方面。一年的使用体验来看，PicGo 很稳定，传输图片也从来没出现过什么问题。</p>
+<p>Markdown 模式下写文章，插入图片是<code>![图片名](Url)</code>这样的格式。PicGo 能够自定义链接格式，在复制链接时直接给你：<code>![原图片名](Url)</code>这样的格式，让作者不再需要自己添加图片名和格式符号。</p>
+<p>需要再说两句的是，在 Win 下面，App 界面的美观是一个奢望，看看一堆专业软件就知道了。如果软件做得美观，是作者附赠的，PicGo 赠送了一个舒服的外观。</p>
+<h2 id="启动器everything">启动器：Everything</h2>
+<p>Everything 的界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/everything.jpg#shadow=true&amp;mirages-width=1428&amp;mirages-height=1152&amp;mirages-cdn-type=4" alt="everything" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>Win 上面很出色的桌面搜索引擎。功能是快速的搜索出硬盘上的文件。支持 PC 端。</p>
+<p><strong>我的体验</strong></p>
+<p>「用文件夹管理文件，用 Everything 读取文件」</p>
+<p>在文件多了之后，稍久一些就记不住文件在哪。我想最快打开一个叫「... 展示.ppt」的文件，于是按<code>Ctrl + N</code>，输入<code>展示</code>，1s 之内就检索完了整个硬盘。</p>
+<h2 id="鼠标手势wgesture">鼠标手势：Wgesture</h2>
+<p>Wgesture 的界面▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/wgesture.png#shadow=true&amp;mirages-width=1150&amp;mirages-height=1142&amp;mirages-cdn-type=4" alt="wgesture" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>为鼠标添加更多的快捷操作，如：按住右键并上拉为「复制」，按住右键并下拉为「粘贴」。App 已经预制简单且以用的快捷键，并支持自定义。支持 PC 端。</p>
+<p><strong>我的体验</strong></p>
+<p>我就使用了几个简单的快捷键，「复制」、「粘贴」、「关闭标签」、「关闭程序」... 作为我在使用鼠标时不想频繁切换于键盘和鼠标之间的一个优化。</p>
+<h2 id="菜单美化edgetile-creators">菜单美化：EdgeTile Creators</h2>
+<p>EdgeTile Creator 的界面▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/edgetile.png#shadow=true&amp;mirages-width=2736&amp;mirages-height=1736&amp;mirages-cdn-type=4" alt="edgetile" loading="lazy"></p>
+<p><strong>基本功能</strong></p>
+<p>为 Win 上的「exe」程序添加图标，并且贴到开始菜单。支持 PC 端，请直接在 Win 10 自带的应用商店下载。</p>
+<p><strong>我的体验</strong></p>
+<p>这显然是一个为强迫症提供的程序。Win 10 上所有程序能够贴到 「开始」菜单，但是桌面图标放到「开始」菜单上看起来实在难受。Creator 支持自定义图标，你可以将「开始」菜单做成你喜欢的样子。</p>
+<p>应用商店有免费的 EdgeTile 卖，我测试不能使用，原因不明。于是买了 EdgeTile Creator，你也可以先试试 EdgeTile 能不能用。</p>
+<p>「开始」菜单的一部分 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/manu.png#shadow=true&amp;mirages-width=654&amp;mirages-height=440&amp;mirages-cdn-type=4" alt="manu" loading="lazy"></p>
+<h2 id="这些-app-也不错">这些 App 也不错</h2>
+<p>对应 Android App，Win 也介绍了 6 款 App。下面几款软件也不错，推荐如下：</p>
+<ul>
+<li>上网工具：<code>v2ray</code></li>
+<li>同步备份：<code>GoodSync</code></li>
+<li>自动化：<code>Autohotkey</code>。以前写过两篇关于「Ahk」的文章（<a href="http://www.neversettle.club/skill/ahk_1.html">第一篇</a>、<a href="http://www.neversettle.club/skill/ahk_2.html">第二篇</a>)，可以去看看。</li>
+</ul>
+<h2 id="这个专题有">这个专题有</h2>
+<ul>
+<li>第一篇：<a href="http://www.neversettle.club/skill/android.html">Android：每个领域推荐一款软件</a></li>
+<li>第二篇：Win：每个领域推荐一款软件</li>
+<li>第三篇：<a href="http://www.neversettle.club/skill/chrome.html">Chrome：每个领域推荐一款插件</a></li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[《引爆点》：反直觉这件事]]></title>
+        <id>https://cameron-chen.github.io/post/tippingpoint/</id>
+        <link href="https://cameron-chen.github.io/post/tippingpoint/">
+        </link>
+        <updated>2019-06-10T14:56:59.000Z</updated>
+        <summary type="html"><![CDATA[<p><strong>马尔科姆 · 格拉德威尔</strong></p>
+<p>被《快公司》誉为「21 世纪的彼得 · 德鲁克」，曾是《华盛顿邮报》商务科学专栏作家，目前是《纽约客》杂志专职作家。2005 年被《时代》周刊评为全球最有影响力的 100 位人物之一。《纽约时报》评价格拉德威尔对社会思潮的影响称为 「格拉德威尔效应」（Gladwell Effect）。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><strong>马尔科姆 · 格拉德威尔</strong></p>
+<p>被《快公司》誉为「21 世纪的彼得 · 德鲁克」，曾是《华盛顿邮报》商务科学专栏作家，目前是《纽约客》杂志专职作家。2005 年被《时代》周刊评为全球最有影响力的 100 位人物之一。《纽约时报》评价格拉德威尔对社会思潮的影响称为 「格拉德威尔效应」（Gladwell Effect）。</p>
+<!-- more -->
+<p>马尔科姆出生于英格兰，是牙买加人的后裔。他在加拿大长大，现居纽约市。</p>
+<hr>
+<figure data-type="image" tabindex="1"><img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/tippingpoint.jpg#shadow=true&amp;mirages-width=360&amp;mirages-height=510&amp;mirages-cdn-type=4" alt="tippingpoint" loading="lazy"></figure>
+<blockquote>
+<p>国外的书一个很大的特点就是一个核心简单的道理可以翻来覆去的讲述和论证，这类书一定要区别对待，对有些人是好书，有些人则不是。如果其论证的案例和过程正是贴近你有过类似实践的场合，则是好书帮助你串联已有的实践积累。如果论证过程和你已有的知识体系相差甚大，那往往你知悉一个核心观点就已经足以。</p>
+</blockquote>
+<blockquote>
+<p>—— Bloger：人月神话</p>
+</blockquote>
+<p>今天刚读了「人月」写的一篇讲读书的文章，他对于外国书的态度正好适用今天介绍的这本书——通篇讲了三个核心概念，用不同的事例从不同的角度来论证。</p>
+<p>所以，可以去浏览看看，万一遇到自己感兴趣的故事了呢？</p>
+<h2 id="故事">故事</h2>
+<p>这本书就是由第一章的中心论点和随后各章的故事组成。</p>
+<p>你或许不知道美国独立战争之前还有一个决定了其发生的小故事；又或是不会想到纽约的犯罪潮可以因为消除地铁涂鸦而被遏制；曾经有一部动画片火爆的原因是它将同样的内容播放 5 遍 ...</p>
+<p>看这本书给人一种寻宝的感觉。</p>
+<h2 id="三个要素">三个要素</h2>
+<p>格拉德威尔眼中的流行三法则：个别人物法则、附着力因素法则和环境威力法则。</p>
+<p>**个别人物法则：**流行潮涌动的过程中，「联系员」、「内行」和「推销员」起着加成的作用，在筛选成本不断提高的今天他们的作用也在不断提升。</p>
+<p><strong>附着力因素法则：</strong>「产品」本身能不能给用户留下印象。</p>
+<p>**环境威力法则：**环境对人的影响可能会让我们吃惊。</p>
+<p>这三个浮夸的名字其实就是「产品」、「人」和「环境」，他们决定着一场流行潮，既不高深也不别致，有趣的点在作者的角度和他对案例的分析。</p>
+<p>我不时会被案例勾起兴致，有时是分析，有时是结论。思考他引起我兴趣的点在哪？好像叫「反直觉」这件事。</p>
+<h2 id="附录">附录</h2>
+<p>为了方便查阅，我将书中内容做了梳理，以供借鉴：<a href="https://mubu.com/doc/qWbHSbBRPZ">引爆点</a></p>
+<p>本文所述内容多是根据记忆，将某一点上印象最深刻的部分提出，远不如书中讲的详细，严密性也可能出现问题，推荐阅读原著。</p>
+<h2 id="参考">参考</h2>
+<p>本文参考了如下文章</p>
+<ul>
+<li>马尔科姆 · 格拉德威尔. 引爆点[M]. 中信出版集团, 2014.04</li>
+</ul>
+<p>感谢 🎈</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Android：每个领域推荐一款软件]]></title>
+        <id>https://cameron-chen.github.io/post/android/</id>
+        <link href="https://cameron-chen.github.io/post/android/">
+        </link>
+        <updated>2019-05-19T14:55:45.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+<!-- more -->
+<p>但经常会出现这样场景：朋友和我吐槽「公众号」的阅读体验有多糟糕，但是又很喜欢「某某」写得文章；很多人吐槽「微博」的客户端怎么这么难用，发表微博的按键在屏幕右上角，一不小心碰到「返回」就刷新，你怎么就觉得我要刷新了呢 ... 不过这样的吐槽之后，好像生活仍然在继续，习惯之后，这件事好像也就偶尔引起我们的不快。</p>
+<p>每当出现这种场景，我就忍不住想告诉那个人，其实有现成的解决方案，其实不用为那一丢丢不爽妥协。</p>
+<p>所以，把自己这种想要推荐产品的冲动都放在这个专题吧。希望这个专题能给你提供这些帮助：</p>
+<ul>
+<li>你有同类的产品，但是可以引发你一丢丢对它们二者的比较</li>
+<li>你没尝试同类产品，但是发现竟然还有这方面的需求</li>
+</ul>
+<p>以下是<code>Android</code>平台的推荐：</p>
+<h2 id="稍后读instapaper">稍后读：Instapaper</h2>
+<p>Instapaper 界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/instapaper.jpeg#mirages-width=1300&amp;mirages-height=867&amp;mirages-cdn-type=4" alt="instapaper" loading="lazy"><br>
+图源<a href="https://www.feng.com/iPhone/news/2018-07-17/_698126.shtml">威锋科技</a></p>
+<p><strong>基本功能</strong></p>
+<p>将不同信息员的文章从不同平台「收藏」并「下载」到 Instapaper 中，给用户 「重排版、屏蔽广告、调节字体和背景及离线阅读」体验。对 PC、Mac、iOS、Android 全平台支持。</p>
+<p><strong>我的体验</strong></p>
+<p>稍后读，即「Read it later」，最早的两个服务提供商为<code>Instapaper</code>和<code>Pocket</code>。二者提供的核心服务一致，即前面提到的基本功能，这里就不比较二者的优劣。我比较想谈这个服务带给我在阅读方面的一些变化：</p>
+<ul>
+<li>统一阅读体验：Instapaper 的原理是下载原文的文字图片，并且重新排版。于是你不用再忍受一些网站设计中的「字体颜色、大小、排版」和花里胡哨的「广告」，享受存粹的阅读体验。并且你还能自己配置「字体、字号、背景」等。对我来说，统一的环境很重要，我想对大多数人来说，统一的阅读环境至少能让阅读体验更好。</li>
+<li>解决「公众号」这个老大难：微信公号的阅读体验是个老生常谈的问题，最不能忍的是「在读文章时有人发来消息，回消息后又得重新进入公号界面」，虽然推出了文章暂存窗口（一个悬浮窗口），那阅读下一篇文章呢？还是得重新进入公众号界面。现在我的解决方案很简单，喜欢的文章存到 Instapaper，和我在其他地方的阅读体验没有什么两样。</li>
+<li>改变阅读习惯：对，因为这个 App，我的阅读习惯发生了改变。从以前打开「即刻、公号、各种新闻 App」找喜欢的新闻，边筛选边阅读，中途还伴随各种阅读体验的中断，到现在是「筛选、阅读、再处理」这样三个完全区分开的步骤，阅读的时候则完全沉浸在阅读中。</li>
+<li>自动化：国外的应用和国内应用最大的不同是注重软件间信息的交流，即能够实现一些自动化功能。比如看完一篇文章，软件帮助你保存到印象笔记。这一点大家可以自行探索。</li>
+</ul>
+<p>在信息不充裕的年代，我们在电视面前守着「新闻联播」，希望知道世界发生了什么。但在这个信息拥挤的年代，我们可以让自己更集中在想关注的事情上。从这个角度来说，拥有「舒适的阅读环境」和「筛选信息」一样重要。</p>
+<h2 id="跨平台传输pushbullet">跨平台传输：Pushbullet</h2>
+<p>Pushbullet 示意图 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/pushbullet.jpg#shadow=true&amp;mirages-width=1600&amp;mirages-height=900&amp;mirages-cdn-type=4" alt="pushbullet" loading="lazy"><br>
+图源 <a href="https://www.feng.com/iPhone/news/2018-07-17/_698126.shtml">lifehacker</a></p>
+<p><strong>基本功能</strong></p>
+<p>在「手机、PC、Mac」间传递信息和小型的文件。</p>
+<p><strong>我的体验</strong></p>
+<p>第一点要说的是<code>Pushbullet</code>需要翻墙。Pushbullet 非常本分，就做了一件事：让不同电子平台传递文件和信息变得顺畅。当然有人可以反驳我：</p>
+<ul>
+<li>QQ、微信就可以传文件，传文字</li>
+<li>Apple 套件之间都能用 AirDrop</li>
+</ul>
+<p>当然还有无数种替代方案可以选。不过且不说「通讯软件」对工作的干扰，Apple 套件只能在苹果生态内流转，单就选择倾向上，我更喜欢用「专业软件解决专业问题」。也就是说我不喜欢用通讯软件来做传输，这是对我来说有强需求的事。具体到每个人的选择，就是自我取舍吧。</p>
+<p>Pushbullet 在这件事上已经做到很完善了。全平台（手机、PC、Mac、Chrome）支持，还能够同步手机短信到电脑（可以理解为验证码来了你不用去抓手机了），会员还支持「剪贴板」同步。</p>
+<h2 id="自动化ifttt">自动化：IFTTT</h2>
+<p>IFTTT 示意图 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/IFTTT.png#shadow=true&amp;mirages-width=1200&amp;mirages-height=1138&amp;mirages-cdn-type=4" alt="IFTTT" loading="lazy"><br>
+图源 <a href="https://www.smarterhomeautomation.com/articles/ifttt-app-automates-home-life/">Home Automation</a></p>
+<p><strong>基本功能</strong></p>
+<p>提供不同服务的连接，并通过某个事件触发其他事件（可以理解为看到天气预报下雨，就发短信提醒你）来实现自动化流程。对网页、iOS、Android 全平台支持。</p>
+<p><strong>我的体验</strong></p>
+<p><code>IFTTT</code>是「If This Then That」的缩写，如果发生某件事，它就自动帮你做下一件事。有点 Geek 的感觉，但是 IFTTT 将这件事的难度下降到普通用户也能玩，因为这个过程中没有涉及到代码。</p>
+<p>最开始接触 IFTTT 我是把它定义为好玩的东西。举例子你就知道了：</p>
+<ul>
+<li>如果天气预报检测我这个地点要下雨，就给我发一条短信</li>
+<li>如果我进教室就帮我把手机静音，并且打开 Wifi</li>
+<li>如果我手机拍了新照片，就帮我备份到 Google Drive /Dropbox</li>
+<li>...</li>
+</ul>
+<p>它代表了无限可能，因为 IFTTT 已经支持几乎所有主流应用：Ins、Facebook、Twitter、Google Drive ... 在比较熟悉 IFTTT 之后，我开始将它融入到我的工作流中，切身体会到了它带来的便利。</p>
+<p>「只做你必须做的」，这是我们发展交通工具延申我们的腿、发展显微镜延申我们的眼、发展信息技术 ... 所有科学技术的源动力。对，IFTTT 让我「必须做」的事又少了很多。</p>
+<h2 id="日记day-one">日记：Day One</h2>
+<p>Day One 界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/DayOne.png#mirages-width=1976&amp;mirages-height=1006&amp;mirages-cdn-type=4" alt="DayOne" loading="lazy"><br>
+图源<a href="https://bbs.feng.com/mobile-news-read-0-698600.html">威锋论坛</a></p>
+<p><strong>基本功能</strong></p>
+<p>Day One 就是个日记本，虽然它很强大。对 Mac、iOS、Android 支持。</p>
+<p><strong>我的体验</strong></p>
+<p>「写日记」是很多人觉得想要做又无法坚持下去的东西。原因有很多，「没时间、麻烦、经常忘」...</p>
+<p>其实写日记这件事，只要把成本降到足够低，你就能坚持下去。比如：不需要自己填「日期、天气、地点」这些内容，编辑足够方便，最好每天能够提醒自己。<code>Day One</code>就是这样一款软件，足够简洁，足够好看，你只需要打开，并记录下自己的心情。它会帮你整理，并且最终还能在地图上显示你都是在哪写下这些内容。对于颜狗来说，我真的没找到 Android 上面能更好看的日记 App；对于高阶用户来说，「标签、笔记本分类、查询、Markdown、命令行支持」又完全能够把 Day One 当作一个资料库来用。</p>
+<h2 id="小工具wood-box">小工具：Wood Box</h2>
+<p>Wood Box 界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/WoodBox.jpg#shadow=true&amp;mirages-width=4320&amp;mirages-height=1912&amp;mirages-cdn-type=4" alt="WoodBox" loading="lazy"><br>
+图源作者</p>
+<p><strong>基本功能</strong></p>
+<p>小工具集合体：查快递、翻译、GIF 动图处理、图片压缩、图片拼接 ... 对 Android 支持。</p>
+<p><strong>我的体验</strong></p>
+<p>Wood Box 是个国内开发者开发的 App，就跟一个百宝箱一样，都是些小工具，有时候又不得不为了这些功能去下一个 App，所以只要你能用上里面两个功能就能少下一个 App。</p>
+<p>我常用的是快递、翻译、图片拼接这几个功能，没有广告、清新好用，你可以去看看有没有用得上的功能。</p>
+<h2 id="第三方share">第三方：Share</h2>
+<p>Share 界面 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/share.png#shadow=true&amp;mirages-width=4320&amp;mirages-height=1788&amp;mirages-cdn-type=4" alt="share" loading="lazy"><br>
+图源作者</p>
+<p><strong>基本功能</strong></p>
+<p>微博的 Android 第三方客户端。微博的功能基本不缺，体验甩微博一条街（没有几条街那么远）。对 Android 支持。</p>
+<p><strong>我的体验</strong></p>
+<p>各种人性化的排版，支持夜间模式，体验这种东西真的要自己试试才知道。刚刚我还翻了下，<code>Share</code>的安装包只有<code>10 m</code>，而<code>微博</code>原版需要<code>79 m</code>，真的是越大越累赘。</p>
+<h2 id="这些-app-也不错">这些 App 也不错</h2>
+<p>上面六款软件是我尝试下来，觉得对手机体验有比较大提升的 App 们。下面还有一些不错的，也推荐一下：</p>
+<ul>
+<li>记账：<code>Bluecoins</code></li>
+<li>大纲：<code>幕布、Dynalist</code></li>
+<li>相机：<code>NOMO</code></li>
+<li>IM：<code>Telegram</code></li>
+<li>在线表格：<code>Airtable</code><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
+</ul>
+<h2 id="这个专题有">这个专题有</h2>
+<ul>
+<li>第一篇：Android：每个领域推荐一款软件</li>
+<li>第二篇：<a href="http://www.neversettle.club/skill/win.html">Win：每个领域推荐一款软件</a></li>
+<li>第三篇：<a href="http://www.neversettle.club/skill/chrome.html">Chrome：每个领域推荐一款插件</a></li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>Airtable：一款在线表单软件，可以理解为 Excel 的在线版，但 Airtable 已经不仅仅是电子表单这么简单了 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[对学习生活的优化   2019.04]]></title>
+        <id>https://cameron-chen.github.io/post/optimization-1904/</id>
+        <link href="https://cameron-chen.github.io/post/optimization-1904/">
+        </link>
+        <updated>2019-05-05T14:53:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>用每个月的前几天解决过去一个月<strong>工作流</strong>上的不顺，发现可以自动化的环节，以及更新学习的理念。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>用每个月的前几天解决过去一个月<strong>工作流</strong>上的不顺，发现可以自动化的环节，以及更新学习的理念。</p>
+<!-- more -->
+<p>这项工作我从去年开始断断续续在做，发现对我帮助很大。今年以来这项工作得以坚持，没想到的是在以往看似没有问题的环节仍然能找到新的突破点，让我觉得有必要更加细致的记录。</p>
+<p>不出意外，以后每月第一篇文章都会是优化记录。</p>
+<p>以下为「二〇一九 · 肆月」期：</p>
+<h2 id="问题">问题</h2>
+<ol>
+<li>手机阅读流程标准化：收集-阅读-笔记归档形成闭环<br>
+手机阅读对我来说烦恼在于，某些内容我需要「阅读」，另一些我需要「阅读并简单评论」，而还有一些需要「在电脑上阅读」。而<strong>如何方便的在手机上评价，和如何将要在电脑上阅读的链接保存在某处，且能够方便的点开链接看</strong>是这次要解决的问题</li>
+<li>Win 10 计划任务休眠后会自动关闭<br>
+Win10 自带的计划任务可以让程序在某一条件下运行，如：开启启动。但是我发现有两个服务启动之后，有时会<strong>在休眠时自动关闭</strong></li>
+<li>有一个需求：当固定的事被意外打断，在每月总结中，我想记录这些事件和原因<br>
+最大的问题是，每月复盘我想看看运动多少次，以及怎么错过某些日期时，却没法<strong>追溯</strong></li>
+<li>周末无法有效利用<br>
+周末安排的工作较平时更少，空余时段容易刷微博就过去了</li>
+<li>Blog 美化</li>
+<li>早晨起床打卡<br>
+早晨有时会<strong>赖床刷手机，或者迷迷糊糊关掉闹铃</strong></li>
+<li>幕布的「工具整合」和「日流」需要升级</li>
+<li>一键生成工作空间<br>
+对于每天背单词或者写文字这样的固定项目来说，每次打开的「网页」、「文件」、「程序」是相同的，<strong>每天要一个一个点开稍有繁琐</strong></li>
+<li>个人记账<br>
+以结果为导向，年度想要记哪些账，就怎么规划项目和标签</li>
+<li>OneNote</li>
+<li>学习专题</li>
+</ol>
+<h2 id="优化">优化</h2>
+<ol>
+<li>我设计了这样的工作流：手机上的文章我保存在收集软件<code>Instapaper</code>上，需要「阅读」的内容直接阅读；需要「阅读并简单评论」的内容放在<code>闪念胶囊 (Idea Pill)</code><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>里并评论，晚上在<code>Day One</code>归档；需要「在电脑上阅读」的内容在<code>Instapaper</code>中，将文章保存到一个文件夹，通过**自动化服务<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>**将文章链接保存到 GTD 软件<code>Dynalist</code>，待有时间再读</li>
+<li>查看运行日志，发现「条件」属性中有一条：「如果计算机改用电池电源，则停止」。差掉这个选项后恢复正常</li>
+<li>我的运动习惯是每周二和四。在这两天晚上，我通过<code>telegram robot</code>向我发送提醒记录的消息。如果运动了，就回复<strong>YES</strong>；没有运动就回复<strong>原因</strong>，机器人会自动把记录帮我保存到网络文档<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>中。这样每月复盘就只需打开网络文档，记录都在里面</li>
+<li>为空余时段提供备选项，这样不至于刷微博浪费时间</li>
+<li>完成内容：1 更换主题和几个页面的背景图；2 导航栏提升到顶部；3 更新了部分不好的配图</li>
+<li>构建了一套打卡机制：起床空腹喝一杯水（一般来说喝了水就不会再困）之后，向<code>telegram robot</code>发送消息打卡，机器人会自己记录时间，并生成一条记录在网络文档中。如果 7.15 之前起床还会给我标记「Super Cool」。在测试两天早晨后发现效果不错</li>
+<li>一些指导计划的文件需要更新。我的处理方式是，提前把这些需求添加到「每月优化需求」的默认项中，并标注好哪些是一月一更新，哪些是三月一更新</li>
+<li>这对于<code>AHK</code>来说很简单，我用热字串来触发一系列程序。如早上做日程安排，我需要开启「OneNote」「Dynalist」和 「幕布」，只需要在任意文本框中输入<code>/rc</code>，便同时打开所有程序</li>
+<li>我的记账安排了两个维度，以 「吃、购、住、行、其他」将所有的行为囊括，以「聚餐、电影」等标签将需要关注的项目标记，在统计记录的时候所有有效信息就自动生成了。以及记账我用<code>Bluecoins</code></li>
+<li>针对<code>OneNote</code>某些缺陷，我安装了插件<code>Onetastic</code>。里面的**宏<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>**功能不要太好用，如：统一 OneNote 中图片的大小，将文档转化为预设的格式。很多功能都可以下载别人设计好的，零门槛</li>
+<li>针对「文学类」「实用类」「技能类」书籍的学习方法进行了归纳，某一天要是觉得自己的读书体系可以推广时，我会专门写一篇文章</li>
+</ol>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>闪念胶囊：一个灵感软件，锤科自带。此处可用便签替代 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>自动化服务：这里调用了 IFTTT 和 Dynalist API <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>网络文档：我使用 Airtable，相当于 Excel 的在线版 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>宏：自动化脚本。相当于一个小程序，将重复性的工作步骤记录，并执行 <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
 ]]></content>
     </entry>
 </feed>
