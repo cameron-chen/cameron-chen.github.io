@@ -110,11 +110,11 @@
 </table>
 <p><strong>音标</strong></p>
 <p>在单元格中添加公式：</p>
-<pre><code class="language-language">=IF(B2=&quot;&quot;,&quot;&quot;,FILTERXML(WEBSERVICE(&quot;http://dict.youdao.com/search?q=&quot;&amp;B2&amp;&quot;&amp;doctype=xml&quot;),&quot;//phonetic-symbol&quot;))
+<pre><code>=IF(B2=&quot;&quot;,&quot;&quot;,FILTERXML(WEBSERVICE(&quot;http://dict.youdao.com/search?q=&quot;&amp;B2&amp;&quot;&amp;doctype=xml&quot;),&quot;//phonetic-symbol&quot;))
 </code></pre>
 <p><strong>含义</strong></p>
 <p>在单元格中添加公式：</p>
-<pre><code class="language-language">=IF(B2=&quot;&quot;,&quot;&quot;,FILTERXML(WEBSERVICE(&quot;http://fanyi.youdao.com/translate?&amp;i=&quot;&amp;B2&amp;&quot;&amp;doctype=xml&quot;),&quot;//translation&quot;))
+<pre><code>=IF(B2=&quot;&quot;,&quot;&quot;,FILTERXML(WEBSERVICE(&quot;http://fanyi.youdao.com/translate?&amp;i=&quot;&amp;B2&amp;&quot;&amp;doctype=xml&quot;),&quot;//translation&quot;))
 </code></pre>
 <p>为了背记的时候先不看含义，故将字体颜色调整为白色，遇到不认识的单词再选中单元格，内容会显示在上部的编辑框中。具体流程：</p>
 <ul>
@@ -122,15 +122,15 @@
 <li>将字色调整为白色</li>
 </ul>
 <p>粘贴选项 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084601.jpg#shadow=true&amp;mirages-width=2678&amp;mirages-height=1326&amp;mirages-cdn-type=4" alt="粘贴" loading="lazy"></p>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084601.jpg" alt="粘贴" loading="lazy"></p>
 <p>最终效果 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084806.jpg#shadow=true&amp;mirages-width=2680&amp;mirages-height=627&amp;mirages-cdn-type=4" alt="最终效果" loading="lazy"></p>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084806.jpg" alt="最终效果" loading="lazy"></p>
 <p><strong>发音</strong></p>
 <p>Excel 其实有内建的语音朗读功能，需要手动开启。开启之后按<code>回车键</code>自动朗读单词。开启方法如下：</p>
 <p>点击左上角小三角，选择其他命令 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084923.jpg#shadow=true&amp;mirages-width=2736&amp;mirages-height=871&amp;mirages-cdn-type=4" alt="其他命令" loading="lazy"></p>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/QQ20190323084923.jpg" alt="其他命令" loading="lazy"></p>
 <p>选择不在功能区的中的命令，将<code>按 Enter 开始朗读单元格</code>添加到列表左侧 ▼<br>
-<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/download.png#shadow=true&amp;mirages-width=3348&amp;mirages-height=2704&amp;mirages-cdn-type=4" alt="添加功能" loading="lazy"></p>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/download.png" alt="添加功能" loading="lazy"></p>
 <p>最后需要使用这功能的时候在左上角开启即可</p>
 <h2 id="我的使用流程">我的使用流程</h2>
 <p>至此，这个很轻量的单词本已经能够正常运行。其特点是灵活可掌控，但这也意味着你需要有自己的判断规则，来确保自己对单词的掌握。建议在使用的过程中，根据自己的习惯，调整形成一套最适合自己的规则。</p>
