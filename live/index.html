@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
+<title>如何开始一场直播 | Think Different</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cameron-chen.github.io/favicon.ico?v=1589721309286">
+<link rel="stylesheet" href="https://cameron-chen.github.io/styles/main.css">
+
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
+
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。
+
+所以将整个过程记录..." />
+    <meta name="keywords" content="live,obs,弹幕" />
+  </head>
+  <body>
+    <div id="app" class="main">
+
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cameron-chen.github.io">
+        <img src="https://cameron-chen.github.io/images/avatar.png?v=1589721309286" class="site-logo">
+        <h1 class="site-title">Think Different</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    </div>
+    <div class="site-description">
+      The only thing you can't do is ignore them
+    </div>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cameron-chen.github.io/atom.xml" target="_blank">RSS</a>
+    </div>
+  </div>
+</div>
+
+
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          <div class="post-detail">
+            <h2 class="post-title">如何开始一场直播</h2>
+            <div class="post-date">2019-07-27</div>
+            
+              <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/black-and-white-black-and-white-equipment-765139.jpg')">
+              </div>
+            
+            <div class="post-content" v-pre>
+              <p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
+<!-- more -->
+<p>所以将整个过程记录下来。如果只是简单的开播，你只需要看前面一小部分内容就能开始。而后面的几个环节，有需求再看就好。</p>
+<h2 id="直播软件">直播软件</h2>
+<p>直播软件分为三类：「官方桌面软件」、「官方移动端软件」和「OBS」。</p>
+<p>三者的区别是，移动端软件操作很简单，根据官方的提示就能直播，而直播形式通常也很简单，就是传输摄像头的画面；官方桌面软件根据官方教程也不难，这种选择通常能够传递更复杂的画面，如：「电脑桌面」、「网页」、「摄像头画面」；OBS 软件本身不是专为直播服务的，其能够完成「视频录制」、「视频推流」等自由度更高的工作。</p>
+<ul>
+<li>官方软件：「B 站直播姬」、「虎牙直播客户端」等，这些软件一般都有桌面和移动端两个版本</li>
+<li>OBS：推荐使用 「OBS Studio」</li>
+</ul>
+<p>接下来就以 OBS Studio 为核心软件，讲解如何开播。</p>
+<h2 id="实现环境">实现环境</h2>
+<ul>
+<li>软件：OBS Studio 23.0.2（64 bit）、Skype Win10 应用</li>
+<li>插件：NewTek NDI 3.8 Runtime</li>
+</ul>
+<h2 id="基本使用">基本使用</h2>
+<p>基本使用「吃」基本教程就好，看完下面这个教程开播就没问题了。但这个教程是「游戏主播」导向，所以如果有其他需求，比如：举办一场线上访谈 ... 请继续看后面的内容。<strong>提示</strong>：后面小节的内容请了解基本操作和术语之后继续阅读。</p>
+<p>基础教程推荐：<a href="https://space.bilibili.com/285517750?spm_id_from=333.788.b_765f7570696e666f.2">B 站 | OBS 直播教程</a></p>
+<h2 id="连麦">连麦</h2>
+<p>连麦这个需求出现于你希望让其他主播来你这「串串门」，或者你邀请了嘉宾在做一场「访谈直播」。B 站直播姬有类似叫「PK 」的功能，但是画面限制的很死，就是左边你的画面，右边另一个主播的画面。</p>
+<p>OBS 上用 Skype 的 NDI 串流<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>功能，即可将你的音视频及你通话对象的音视频传递至 OBS。准备工作如下：</p>
+<ol>
+<li>下载 OBS 插件并放置于指定位置</li>
+<li>安装插件支持：NDI Runtime</li>
+<li>Skype 允许使用 NDI 功能</li>
+<li>OBS 上添加 NDI 源</li>
+</ol>
+<p>其上步骤<code>1, 2</code>可以简化为安装「一键安装包」，地址：<a href="https://github.com/Palakis/obs-ndi/releases/tag/4.6.0">obs-ndi</a>，下载<code>obs-ndi-x.x.0-Windows-Installer.exe</code>。版本号可能不同，下载最新版就好。</p>
+<p>下载一键安装包 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/obs-ndi-windowsinstaller.jpg" alt="obs-ndi-windowsinstaller" loading="lazy"></p>
+<p>如果不能安装一键包，请跟着下面的步骤手动安装。（我安装的时候网络抽风没能装好，如果你正好也不能装不要惊讶）</p>
+<h3 id="obs-插件下载并添加至插件文件夹">OBS 插件下载，并添加至插件文件夹</h3>
+<p>下载插件包，也是同样的地址：<a href="https://github.com/Palakis/obs-ndi/releases/tag/4.6.0">obs-ndi</a>，下载<code>obs-ndi-x.x.0-Windows.zip</code>。</p>
+<p>解压之后有：<code>data</code>和<code>obs-plugins</code>两个文件夹，将这两个文件夹复制到 OBS 的安装文件夹，此文件夹应该有<code>uninstall.exe</code>程序。</p>
+<p>插件复制地址 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/obsplugins.jpg" alt="obsplugins" loading="lazy"></p>
+<h3 id="安装插件支持">安装插件支持</h3>
+<p>插件还需要单独的程序支持，一个叫「NewTek NDI Runtime」的软件。</p>
+<ul>
+<li>官方下载地址：<a href="http://new.tk/NDIRedistV3">NewTek NDI Runtime</a></li>
+<li>官网抽风时的备用地址：<a href="https://pan.baidu.com/s/1VXog8eTXuoE_dbjfrEB7yQ">云盘 | NewTek NDI 3.8 Runtime</a>，密码：<code>qqjp</code></li>
+</ul>
+<h3 id="skype-开启-ndi-传输">Skype 开启 NDI 传输</h3>
+<p>打开「设置」，点击「通话」，「高级」，开启「允许使用 NDI」。</p>
+<p>开启 Skype NDI 传输 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/SkypeNDI.jpg" alt="SkypeNDI" loading="lazy"></p>
+<h3 id="obs-添加-ndi-源">OBS 添加 NDI 源</h3>
+<p>在 OBS 源中，选择 NDI 源。注：在视频通话之后 Skype 的源才会显示出来。</p>
+<p>OBS 中添加 NDI 源 ▼<br>
+<img src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/addNDI.jpg" alt="addNDI" loading="lazy"></p>
+<h2 id="弹幕">弹幕</h2>
+<p>弹幕有两种实现方式，一种直接使用软件，它会自动生成源，可以直接添加至直播画面中；另一种是网页生成弹幕，OBS 再捕捉网页源。两种方式都有对应的服务提供商。</p>
+<ul>
+<li>软件推荐：<a href="http://bilibili.danmaku.live/">弹幕库</a></li>
+<li>网页源推荐：<a href="http://www.zbmate.com/home/plugins/">智播云插件</a>，登陆并选择插件，添加网页源即可使用</li>
+</ul>
+<h2 id="ppt-广播">PPT 广播</h2>
+<p>这是一个更加小众的部分。你可以理解为：你邀请了一名嘉宾，但是他需要展示 PPT，而你在用 OBS 软件将展示过程推送出来。这样的场景下，需要用到「PPT 广播」<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>这个功能。想必你已经猜到，将「PPT 广播」生成的链接，添加到「网页源」，即可在 OBS 上看到 PPT 画面，而嘉宾可以远程控制。</p>
+<ul>
+<li>软件推荐：<a href="https://presentain.com/">Presentain</a></li>
+</ul>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>NDI 串流：允许截取 Skype 的视频通话，并且传输给 OBS 使用。技术详情见：<a href="https://zhuanlan.zhihu.com/p/40047906">NDI网络设备接口技术简介</a> <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>PPT 广播：将 PPT 画面远程展示出来，收看者通过链接（浏览器）查看展示内容 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+
+            </div>
+            
+              <div class="tag-container">
+                
+                  <a href="https://cameron-chen.github.io/tag/l1aRsVK5x/" class="tag">
+                    live
+                  </a>
+                
+                  <a href="https://cameron-chen.github.io/tag/b0q3psy6o-/" class="tag">
+                    obs
+                  </a>
+                
+                  <a href="https://cameron-chen.github.io/tag/SmrDyKpvkw/" class="tag">
+                    弹幕
+                  </a>
+                
+              </div>
+            
+            
+              <div class="next-post">
+                <div class="next">下一篇</div>
+                <a href="https://cameron-chen.github.io/musicfromto/">
+                  <h3 class="post-title">
+                    出国后，网易云音乐怎么办
+                  </h3>
+                </a>
+              </div>
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: 'b0b5994afc452f1e89d9',
+        clientSecret: '21b4959726f9da0d7826e5151618e8cc08fe440d',
+        repo: 'cameron-chen.github.io',
+        owner: 'cameron-chen',
+        admin: ['cameron-chen'],
+        id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
+
+
+
+
+  </body>
+</html>
