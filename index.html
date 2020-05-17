@@ -1,357 +1,332 @@
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" >
+
 <title>Think Different</title>
-<link rel="shortcut icon" href="https://cameron-chen.github.io/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="https://cameron-chen.github.io/media/css/tailwind.css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://cameron-chen.github.io/favicon.ico?v=1589720811924">
 <link rel="stylesheet" href="https://cameron-chen.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Think Different - Atom Feed" href="https://cameron-chen.github.io/atom.xml">
 
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166618662-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'UA-166618662-1');
-  </script>
+
+<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+
+
+    <meta name="description" content="The only thing you can&#39;t do is ignore them">
     
+  </head>
+  <body>
+    <div id="app" class="main">
 
-  <meta name="description" content="The only thing you can't do is ignore them" />
-</head>
-<body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
-
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
+      <div class="sidebar" :class="{ 'full-height': menuVisible }">
+  <div class="top-container" data-aos="fade-right">
+    <div class="top-header-container">
+      <a class="site-title-container" href="https://cameron-chen.github.io">
+        <img src="https://cameron-chen.github.io/images/avatar.png?v=1589720811924" class="site-logo">
+        <h1 class="site-title">Think Different</h1>
+      </a>
+      <div class="menu-btn" @click="menuVisible = !menuVisible">
+        <div class="line"></div>
+      </div>
+    </div>
+    <div>
+      
+        
+          <a href="/" class="site-nav">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="site-nav">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="site-nav">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="site-nav">
+            关于
+          </a>
+        
+      
     </div>
   </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
-    
-      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        首页
-      </a>
-    
-      <a href="/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        归档
-      </a>
-    
-      <a href="/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        标签
-      </a>
-    
-      <a href="/post/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        关于
-      </a>
-    
-    <a href="https://cameron-chen.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
-</div>
-
-    <div class="max-w-4xl w-full mx-auto ">
+  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
+    <div class="social-container">
       
-        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-0 animated fadeIn">
-  <div class="flex-1 order-2 md:order-1 md:pr-16">
-    <div class="text-4xl font-bold text-center md:text-left">
-      Think Different
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     </div>
-    <div class="text-xl text-gray-500 mt-4 text-center md:text-left">
+    <div class="site-description">
       The only thing you can't do is ignore them
     </div>
-    
-    
-  </div>
-  <div class="md:mx-8 flex-shrink-0 self-start rounded-full border-4 border-dotted border-transparent hover:border-yellow-50 p-2 w-32 h-32 order-1 md:order-2 mx-auto s3-dotted">
-    <img class="rounded-full object-cover" src="https://cameron-chen.github.io/images/avatar.png?v=1589507514239" alt="Think Different" width="100%" height="100%">
-  </div>
-</header>
-      
-
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
-        
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/Langkawi/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Pieces in Langkawi
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-01-11</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>去兰卡威已经是去年十月的事，没有用文字记录下来，回忆早已模糊。前两天手机坏了，趁机清理了一遍照片。想想，还是搬一些到博客上吧，不然这些照片也「腐坏」了。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/post/Langkawi/" class="btn">
-        Read more
-      </a>
+    <div class="site-footer">
+      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | <a class="rss" href="https://cameron-chen.github.io/atom.xml" target="_blank">RSS</a>
     </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/alessio-rinella-q1RZ6fAR.jpg" alt="Pieces in Langkawi">
-    
   </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/review-2019/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          2019 的复盘
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-12-31</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
+</div>
 
 
-Date
-event
+      <div class="main-container">
+        <div class="content-container" data-aos="fade-up">
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/Langkawi/">
+                  <h2 class="post-title">Pieces in Langkawi</h2>
+                </a>
+                <div class="post-date">
+                  2020-01-11
+                </div>
+                <div class="post-abstract">
+                  <p>去兰卡威已经是去年十月的事，没有用文字记录下来，回忆早已模糊。前两天手机坏了，趁机清理了一遍照片。想想，还是搬一些到博客上吧，不然这些照片也「腐坏」了。</p>
 
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/Langkawi/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/alessio-rinella-q1RZ6fAR.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/review-2019/">
+                  <h2 class="post-title">2019 的复盘</h2>
+                </a>
+                <div class="post-date">
+                  2019-12-31
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/review-2019/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zoltan-tasi-KHD_FA43aMw.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/moon/">
+                  <h2 class="post-title">《月亮与六便士》：满地都是六便士</h2>
+                </a>
+                <div class="post-date">
+                  2019-12-23
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/moon/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/nick-owuor-astro-nic-visuals-wDifg5xc9Z4.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/Singapore/">
+                  <h2 class="post-title">写在来狮城两月后</h2>
+                </a>
+                <div class="post-date">
+                  2019-10-16
+                </div>
+                <div class="post-abstract">
+                  <p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
 
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/Singapore/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zutu.jpeg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/live/">
+                  <h2 class="post-title">如何开始一场直播</h2>
+                </a>
+                <div class="post-date">
+                  2019-07-27
+                </div>
+                <div class="post-abstract">
+                  <p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
 
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/live/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/black-and-white-black-and-white-equipment-765139.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/musicfromto/">
+                  <h2 class="post-title">出国后，网易云音乐怎么办</h2>
+                </a>
+                <div class="post-date">
+                  2019-07-20
+                </div>
+                <div class="post-abstract">
+                  <p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
 
-2019.01.30
-××××
-
-
-2019.03.15
-××××
-
-
-2019.04.05
-××××××××
-
-
-2019.07.12
-×××××
-
-
-2019.10.05
-×××××××××
-
-
-20...
-      </div>
-      <a href="https://cameron-chen.github.io/post/review-2019/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zoltan-tasi-KHD_FA43aMw.jpg" alt="2019 的复盘">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/moon/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《月亮与六便士》：满地都是六便士
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-12-23</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-读完这本书是在 final 之前，据现在已经过去好一段时间，记忆像是褪色的照片，有些看不清。
-重新翻过一遍笔记，我看到这本书在尝试回答这样一个问题：谋生还是生活？在我视野所能触及的范围内，越来越多的人选择逃离「螺丝钉」一样的生活，他们讲「...
-      </div>
-      <a href="https://cameron-chen.github.io/post/moon/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/nick-owuor-astro-nic-visuals-wDifg5xc9Z4.jpg" alt="《月亮与六便士》：满地都是六便士">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/Singapore/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          写在来狮城两月后
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-10-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/post/Singapore/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zutu.jpeg" alt="写在来狮城两月后">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/live/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          如何开始一场直播
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-07-27</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/post/live/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/black-and-white-black-and-white-equipment-765139.jpg" alt="如何开始一场直播">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/musicfromto/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          出国后，网易云音乐怎么办
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-07-20</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/post/musicfromto/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/bookcase.jpg" alt="出国后，网易云音乐怎么办">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/chrome/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Chrome：每个领域推荐一款插件
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-06-30</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。
-但经常会出现这样场景：朋友和我吐槽「公众号」的阅读体验有多糟...
-      </div>
-      <a href="https://cameron-chen.github.io/post/chrome/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/googlelogo.jpg" alt="Chrome：每个领域推荐一款插件">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/win/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Win：每个领域推荐一款软件
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-06-23</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。
-但经常会出现这样场景：朋友和我吐槽「公众号」的阅读体验有多糟...
-      </div>
-      <a href="https://cameron-chen.github.io/post/win/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/building-pink-wall.jpg" alt="Win：每个领域推荐一款软件">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/tippingpoint/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《引爆点》：反直觉这件事
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-06-10</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p><strong>马尔科姆 · 格拉德威尔</strong></p>
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/musicfromto/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/bookcase.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/chrome/">
+                  <h2 class="post-title">Chrome：每个领域推荐一款插件</h2>
+                </a>
+                <div class="post-date">
+                  2019-06-30
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/chrome/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/googlelogo.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/win/">
+                  <h2 class="post-title">Win：每个领域推荐一款软件</h2>
+                </a>
+                <div class="post-date">
+                  2019-06-23
+                </div>
+                <div class="post-abstract">
+                  
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/win/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/building-pink-wall.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/tippingpoint/">
+                  <h2 class="post-title">《引爆点》：反直觉这件事</h2>
+                </a>
+                <div class="post-date">
+                  2019-06-10
+                </div>
+                <div class="post-abstract">
+                  <p><strong>马尔科姆 · 格拉德威尔</strong></p>
 <p>被《快公司》誉为「21 世纪的彼得 · 德鲁克」，曾是《华盛顿邮报》商务科学专栏作家，目前是《纽约客》杂志专职作家。2005 年被《时代》周刊评为全球最有影响力的 100 位人物之一。《纽约时报》评价格拉德威尔对社会思潮的影响称为 「格拉德威尔效应」（Gladwell Effect）。</p>
 
-      </div>
-      <a href="https://cameron-chen.github.io/post/tippingpoint/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/cover.jpg" alt="《引爆点》：反直觉这件事">
-    
-  </div>
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/tippingpoint/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/cover.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
+            <article class="post-item">
+              <div class="left">
+                <a href="https://cameron-chen.github.io/post/android/">
+                  <h2 class="post-title">Android：每个领域推荐一款软件</h2>
+                </a>
+                <div class="post-date">
+                  2019-05-19
+                </div>
+                <div class="post-abstract">
+                  <p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
 
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/post/android/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Android：每个领域推荐一款软件
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2019-05-19</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
+                </div>
+              </div>
+              
+                <a class="right" href="https://cameron-chen.github.io/post/android/">
+                  <div class="feature-container" style="background-image: url('https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/pathum-danthanarayana-46.jpg')">
+                  </div>
+                </a>
+              
+            </article>
+          
 
-      </div>
-      <a href="https://cameron-chen.github.io/post/android/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/pathum-danthanarayana-46.jpg" alt="Android：每个领域推荐一款软件">
-    
-  </div>
+          <div class="pagination-container">
   
+  
+    <a href="https://cameron-chen.github.io/page/2" class="next">下一页 <i class="icon-arrow-ios-forward-outline"></i></a>
+  
+</div>
+
+        </div>
       </div>
-
-      
-  <div class="my-4 flex justify-between px-4 md:px-0">
-    
-    
-      <a href="https://cameron-chen.github.io/page/2" class="btn btn-white">
-        下一页
-        <i class="ri-arrow-right-line ml-4"></i>
-      </a>
-    
-  </div>
-
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-</footer>
-
     </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="https://cameron-chen.github.io/media/scripts/main.js"></script>
-</body>
 
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script type="application/javascript">
+
+AOS.init();
+
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
+
+</script>
+
+
+
+
+
+
+  </body>
 </html>
