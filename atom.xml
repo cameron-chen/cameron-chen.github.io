@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-05-17T14:47:50.417Z</updated>
+    <updated>2020-06-13T15:14:58.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[《史蒂夫 · 乔布斯传》：我终于去读了你的传记]]></title>
+        <id>https://cameron-chen.github.io/StevenJobs/</id>
+        <link href="https://cameron-chen.github.io/StevenJobs/">
+        </link>
+        <updated>2020-06-13T14:10:55.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pieces in Langkawi]]></title>
         <id>https://cameron-chen.github.io/Langkawi/</id>
@@ -93,17 +100,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p><strong>马尔科姆 · 格拉德威尔</strong></p>
 <p>被《快公司》誉为「21 世纪的彼得 · 德鲁克」，曾是《华盛顿邮报》商务科学专栏作家，目前是《纽约客》杂志专职作家。2005 年被《时代》周刊评为全球最有影响力的 100 位人物之一。《纽约时报》评价格拉德威尔对社会思潮的影响称为 「格拉德威尔效应」（Gladwell Effect）。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android：每个领域推荐一款软件]]></title>
-        <id>https://cameron-chen.github.io/android/</id>
-        <link href="https://cameron-chen.github.io/android/">
-        </link>
-        <updated>2019-05-19T14:55:45.000Z</updated>
-        <summary type="html"><![CDATA[<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>这是软件推荐专题的第一篇文章，目光着眼于「效率和个人管理」。其实每个人都有自己的一套方法论，在这个体系里面增添和减少都是一件麻烦的事，我也在要求自己，选择好一套规则就不再改变。</p>
 ]]></content>
     </entry>
 </feed>
