@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-07-11T10:02:04.455Z</updated>
+    <updated>2020-07-25T13:44:49.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[《1984》读书笔记]]></title>
+        <id>https://cameron-chen.github.io/1984/</id>
+        <link href="https://cameron-chen.github.io/1984/">
+        </link>
+        <updated>2020-07-25T13:35:39.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[博士申请]]></title>
         <id>https://cameron-chen.github.io/PhD_Application/</id>
@@ -92,12 +99,5 @@
         <link href="https://cameron-chen.github.io/chrome/">
         </link>
         <updated>2019-06-30T08:00:13.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Win：每个领域推荐一款软件]]></title>
-        <id>https://cameron-chen.github.io/win/</id>
-        <link href="https://cameron-chen.github.io/win/">
-        </link>
-        <updated>2019-06-23T14:58:32.000Z</updated>
     </entry>
 </feed>
