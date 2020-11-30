@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-07-25T13:51:30.488Z</updated>
+    <updated>2020-11-30T15:46:46.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[20-21 term 1 课程学习回顾]]></title>
+        <id>https://cameron-chen.github.io/20-21_term1_review/</id>
+        <link href="https://cameron-chen.github.io/20-21_term1_review/">
+        </link>
+        <updated>2020-11-30T15:08:11.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《1984》读书笔记]]></title>
         <id>https://cameron-chen.github.io/1984/</id>
@@ -92,12 +99,5 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
 ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome：每个领域推荐一款插件]]></title>
-        <id>https://cameron-chen.github.io/chrome/</id>
-        <link href="https://cameron-chen.github.io/chrome/">
-        </link>
-        <updated>2019-06-30T08:00:13.000Z</updated>
     </entry>
 </feed>
