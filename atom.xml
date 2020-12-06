@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-12-01T01:35:16.403Z</updated>
+    <updated>2020-12-06T09:06:40.514Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[《黄金时代》]]></title>
+        <id>https://cameron-chen.github.io/lesslesshuang-jin-shi-dai-greatergreater/</id>
+        <link href="https://cameron-chen.github.io/lesslesshuang-jin-shi-dai-greatergreater/">
+        </link>
+        <updated>2020-12-05T02:39:43.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20-21 term 1 课程学习回顾]]></title>
         <id>https://cameron-chen.github.io/20-21_term1_review/</id>
@@ -87,17 +94,6 @@
         <summary type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[出国后，网易云音乐怎么办]]></title>
-        <id>https://cameron-chen.github.io/musicfromto/</id>
-        <link href="https://cameron-chen.github.io/musicfromto/">
-        </link>
-        <updated>2019-07-20T15:01:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>也是在云村呆过好几年的人，这两年云村版权不济，像「周董」这样的门面担当的版权全在企鹅手上。不过云村仍然有我非常喜欢的小众歌单，这是我离不开它的原因。</p>
 ]]></content>
     </entry>
 </feed>
