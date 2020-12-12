@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-12-06T09:14:54.620Z</updated>
+    <updated>2020-12-12T16:28:41.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[《白银时代》读书笔记]]></title>
+        <id>https://cameron-chen.github.io/Silver_Age/</id>
+        <link href="https://cameron-chen.github.io/Silver_Age/">
+        </link>
+        <updated>2020-12-12T00:15:39.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《黄金时代》读书笔记]]></title>
         <id>https://cameron-chen.github.io/golden-age/</id>
@@ -83,17 +90,6 @@
         <summary type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
 ]]></summary>
         <content type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[如何开始一场直播]]></title>
-        <id>https://cameron-chen.github.io/live/</id>
-        <link href="https://cameron-chen.github.io/live/">
-        </link>
-        <updated>2019-07-27T15:02:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>很偶然的机会，我需要接触到直播，并且还不是那种打开手机 App 就能够进行的形式。我需要裁切画面，邀请其他嘉宾（通过视频），布置弹幕。可能是需求比较「小众」的原因，有时候有种翻遍 Google 也找不到解决方案的感觉。</p>
 ]]></content>
     </entry>
 </feed>
