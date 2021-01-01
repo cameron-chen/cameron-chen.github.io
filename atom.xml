@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cameron-chen.github.io</id>
     <title>Think Different</title>
-    <updated>2020-12-12T16:28:41.688Z</updated>
+    <updated>2021-01-01T10:22:03.339Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://cameron-chen.github.io"/>
     <link rel="self" href="https://cameron-chen.github.io/atom.xml"/>
     <subtitle>The only thing you can&apos;t do is ignore them</subtitle>
     <logo>https://cameron-chen.github.io/images/avatar.png</logo>
     <icon>https://cameron-chen.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Think Different</rights>
+    <rights>All rights reserved 2021, Think Different</rights>
+    <entry>
+        <title type="html"><![CDATA[2020 的复盘]]></title>
+        <id>https://cameron-chen.github.io/review-2020/</id>
+        <link href="https://cameron-chen.github.io/review-2020/">
+        </link>
+        <updated>2021-12-31T15:59:59.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《白银时代》读书笔记]]></title>
         <id>https://cameron-chen.github.io/Silver_Age/</id>
@@ -80,16 +87,5 @@
         <link href="https://cameron-chen.github.io/moon/">
         </link>
         <updated>2019-12-23T15:04:43.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[写在来狮城两月后]]></title>
-        <id>https://cameron-chen.github.io/Singapore/</id>
-        <link href="https://cameron-chen.github.io/Singapore/">
-        </link>
-        <updated>2019-10-16T15:03:13.000Z</updated>
-        <summary type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>7.11，我来狮城的第一天。还记的那天飞机降落凌晨 4 点，一直忙到到晚上 12 点。最后，在还没洗过的新床单睡了一夜。忙，成了我这两个月生活的注脚。虽然经常会忙的手脚慌乱，却不得不实话实说，我喜欢这样的生活。</p>
-]]></content>
     </entry>
 </feed>
