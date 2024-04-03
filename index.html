@@ -1,381 +1,209 @@
+<!DOCTYPE HTML>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta http-equiv="X-UA-Compatible" content="ie=edge">
-<title>Think Different</title>
-<link rel="shortcut icon" href="https://cameron-chen.github.io/favicon.ico">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.2.0/fonts/remixicon.css" rel="stylesheet">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.7.2/animate.min.css">
-<link rel="stylesheet" href="https://cameron-chen.github.io/media/css/tailwind.css">
-<link rel="stylesheet" href="https://cameron-chen.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Think Different - Atom Feed" href="https://cameron-chen.github.io/atom.xml">
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
+  <title>Changyu Chen</title>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166618662-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-  
-    gtag('config', 'UA-166618662-1');
-  </script>
-    
+  <meta name="author" content="Changyu Chen">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta name="description" content="The only thing you can't do is ignore them" />
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌐</text></svg>">
 </head>
+
 <body>
-  <div class="antialiased flex flex-col min-h-screen" id="app">
+  <table
+    style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+    <tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr style="padding:0px">
+                <td style="padding:2.5%;width:63%;vertical-align:middle">
+                  <p style="text-align:center">
+                    <name>Changyu Chen</name>
+                  </p>
+                  I am a Ph.D. candidate in Computer Science at <a href="https://www.smu.edu.sg/">Singapore Management
+                    University (SMU)</a>, fortunate to be advised
+                  by <a href="http://www.mysmu.edu/faculty/pradeepv/">Prof. Pradeep Varakantham</a> and <a
+                    href="http://aruneshsinha.net/">Prof. Arunesh Sinha</a>. Prior to this, I earned my Master's degree
+                  in
+                  Systems and Project Management from <a href="https://www.ntu.edu.sg/">Nanyang Technological University
+                    (NTU)</a>, and my Bachelor's degree in Civil Engineering from <a
+                    href="https://www.zju.edu.cn/english/">Zhejiang University</a>.
 
-    <div class="nav py-3 md:py-8 fixed w-full z-10 bg-gray-50 dark:bg-gray-700 transition-all duration-300" :class="{ 'scroll': scrolled }">
-  <div class="flex justify-end px-4">
-    <div class="w-8 h-8 flex justify-center items-center rounded-full md:hidden" @click="showMenu = !showMenu">
-      <i class="ri-close-line" v-show="showMenu"></i>
-      <i class="ri-menu-3-line" v-show="!showMenu"></i>
-    </div>
-  </div>
-  <nav class="max-w-4xl w-full mx-auto text-center flex flex-col md:flex-row justify-center md:block" :class="`${ showMenu ? 'block' : 'hidden' }`">
-    
-      <a href="/" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        首页
-      </a>
-    
-      <a href="/archives" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        归档
-      </a>
-    
-      <a href="/tags" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        标签
-      </a>
-    
-      <a href="https://cameron-chen.github.io/about" target="" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-        关于
-      </a>
-    
-    <a href="https://cameron-chen.github.io/atom.xml" target="_blank" class="py-2 md:py-1 px-4 mx-4 inline-flex transition font-semibold rounded dark:hover:bg-gray-600 hover:bg-gray-200">
-      RSS
-    </a>
-  </nav>
-</div>
-
-    <div class="max-w-4xl w-full mx-auto ">
-      
-        <header class="flex py-16 md:py-32 mt-12 flex-col md:flex-row px-4 md:px-0 animated fadeIn">
-  <div class="flex-1 order-2 md:order-1 md:pr-16">
-    <div class="text-4xl font-bold text-center md:text-left">
-      Think Different
-    </div>
-    <div class="text-xl text-gray-500 mt-4 text-center md:text-left">
-      The only thing you can't do is ignore them
-    </div>
-    
-    
-  </div>
-  <div class="md:mx-8 flex-shrink-0 self-start rounded-full border-4 border-dotted border-transparent hover:border-yellow-50 p-2 w-32 h-32 order-1 md:order-2 mx-auto s3-dotted">
-    <img class="rounded-full object-cover" src="https://cameron-chen.github.io/images/avatar.png?v=1633770336617" alt="Think Different" width="100%" height="100%">
-  </div>
-</header>
-      
-
-      <div class="shadow-box bg-white dark:bg-gray-600 border-gray-300 rounded-none md:rounded-lg -mx-1 md:mx-0 md:px-0">
-        
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/import-tf-graph-for-fine-tuning/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Import TF Graph for Fine-tuning
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2021-10-09</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
-This post is motivated by a task in research: import a pretrained model, e.g. GAN, continue updating one part of its co...
-      </div>
-      <a href="https://cameron-chen.github.io/import-tf-graph-for-fine-tuning/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/tf_logo.png" alt="Import TF Graph for Fine-tuning">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/silence/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《沉默的大多数》读书笔记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2021-01-16</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        王小波
-王小波（1952-1997），中国当代著名学者，作家。代表作有《黄金时代》、《白银时代》、《黑铁时代》等。
+                  </p>
+                  Research: My research interests lie in the intersection of generative modelling and autonomous
+                  decision making.
 
 
-  
-    
-  
+                  <!-- I am a postdoctoral researcher at <a href="https://www.berkeley.edu/">UC Berkeley</a>, working with <a
+                    href="https://people.eecs.berkeley.edu/~kanazawa/">Prof. Angjoo Kanazawa</a> and <a
+                    href="https://people.eecs.berkeley.edu/~efros/">Prof. Alyosha Efros</a>. Additionally, I'm a
+                  visiting researcher at <a href="https://research.google/">Google Research</a>. I completed my PhD in
+                  Computer Science at <a href="https://tech.cornell.edu/">Cornell Tech</a>, <a
+                    href="https://www.cornell.edu/">Cornell University</a> with my advisors <a
+                    href="http://www.cs.cornell.edu/~snavely/">Prof. Noah Snavely</a> and <a
+                    href="http://home.bharathh.info/">Prof. Bharath Hariharan</a>. Before that I received my bachelor's
+                  degree from <a href="https://www.zju.edu.cn/english/">Zhejiang University, </a> where I worked with <a
+                    href="https://xzhou.me/">Prof. Xiaowei Zhou</a>. -->
 
+                  </p>
+                  <p style="text-align:center">
+                    <a href="mailto:cychen.2020@phdcs.smu.edu.sg">Email</a> &nbsp/&nbsp
+                    <a href="https://www.linkedin.com/in/changyu-chen-416b66177/">LinkedIn</a>
+                    &nbsp/&nbsp
+                    <a href="https://github.com/cameron-chen">Github</a>
+                    &nbsp/&nbsp
+                    <a href="https://scholar.google.com/citations?user=N8xlDY0AAAAJ&hl=en">Google Scholar</a>
+                  </p>
+                </td>
+                <td style="padding:2.5%;width:25%;max-width:25%">
+                  <a href="images/changyuPhoto.jpg"><img style="width:90%;max-width:100%;border-radius: 10px"
+                      alt="profile photo" src="images/changyuPhoto.jpg" class="hoverZoomLink"></a>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:100%;vertical-align:middle">
+                  <heading>News</heading>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:12%;vertical-align:middle">Dec 22, 2023</td>
+                <td style="width:88%;vertical-align:middle">I received <a href="https://sdsc.sg/fellowship/">Singapore
+                    Data Science Consortium Dissertation
+                    Research Fellowship 2023</a> from Singapore Data Science Consortium.</td>
+              </tr>
+              <tr>
+                <td style="padding:20px;width:12%;vertical-align:middle">Sep 22, 2023</td>
+                <td style="width:88%;vertical-align:middle">Recent work: <a
+                    href="https://cameron-chen.github.io/flow-iar/">Generative Modelling of Stochastic Actions with
+                    Arbitrary Constraints in Reinforcement Learning</a> is accepted by NeurIPS 2023.</td>
+              </tr>
+              <tr>
+                <td style="padding:20px;width:12%;vertical-align:middle">Aug 21, 2023</td>
+                <td style="width:88%;vertical-align:middle">I joined <a href="https://sail.sea.com/">Sea AI lab
+                    (SAIL)</a> as a research intern and my
+                  research is related to generative models and (multimodal) large language models.</td>
+              </tr>
+              <tr>
+                <td style="padding:20px;width:12%;vertical-align:middle">Dec 01, 2021</td>
+                <td style="width:88%;vertical-align:middle">Recent work: <a
+                    href="https://arxiv.org/abs/2201.09644">Multiscale Generative Models: Improving
+                    Performance of a Generative Model Using Feedback from Other Dependent Generative Models</a> is
+                  accepted by
+                  AAAI 2022.</td>
+              </tr>
+              <tr>
+                <td style="padding:20px;width:12%;vertical-align:middle">March 21, 2021</td>
+                <td style="width:88%;vertical-align:middle">I received Academic Excellence Award 2021 from NTU.</td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
+              <tr>
+                <td style="padding:20px;width:100%;vertical-align:middle">
+                  <heading>Selected Publications</heading>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <table
+            style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+            <tbody>
 
+              <tr>
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <img src='images/img-chen_et_al-2023.png' width="160">
+                  </div>
+                </td>
 
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <a href="https://cameron-chen.github.io/flow-iar/">
+                    <papertitle>Generative Modelling of Stochastic Actions with Arbitrary Constraints in Reinforcement
+                      Learning</papertitle>
+                  </a>
+                  <br>
+                  <strong>Changyu Chen</strong>,
+                  <a href="https://www.linkedin.com/in/ramesha-karunasena">Ramesha Karunasena</a>,
+                  <a href="https://ix.cs.uoregon.edu/~thanhhng/">Thanh Hong Nguyen</a>,
+                  <a href="http://aruneshsinha.net/">Arunesh Sinha</a>,
+                  <a href="http://www.mysmu.edu/faculty/pradeepv/">Pradeep Varakantham</a>
+                  <br>
+                  <em>NeurIPS</em>, 2023
+                  <br>
 
-王小波是谁？这个问题在我的成长过程中数次出现。没有细读王小波作品之前，他在我的印象中有一些...
-      </div>
-      <a href="https://cameron-chen.github.io/silence/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/silence_cover.jpg" alt="《沉默的大多数》读书笔记">
-    
-  </div>
+                  <a href="https://cameron-chen.github.io/flow-iar/">project page</a> /
+                  <a href="https://arxiv.org/abs/2311.15341">arXiv</a> /
+                  <a href="https://github.com/cameron-chen/flow-iar">code</a>
+                  <p></p>
+                </td>
+              </tr>
 
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/review-2020/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          2020 的复盘
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-12-31</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        
+              <tr>
+                <td style="padding:20px;width:25%;vertical-align:middle">
+                  <div class="one">
+                    <img src='images/img-chen_et_al-2022.png' width="160">
+                  </div>
+                </td>
 
+                <td style="padding:20px;width:75%;vertical-align:middle">
+                  <a href="https://arxiv.org/abs/2201.09644">
+                    <papertitle>Multiscale Generative Models: Improving Performance of a Generative Model Using Feedback
+                      from Other Dependent Generative Models</papertitle>
+                  </a>
+                  <br>
+                  <strong>Changyu Chen</strong>,
+                  <a href="https://avinandan22.github.io/">Avinandan Bose</a>,
+                  <a href="http://www.mysmu.edu/faculty/sfcheng/">Shih-Fen Cheng</a>,
+                  <a href="http://aruneshsinha.net/">Arunesh Sinha</a>,
+                  <br>
+                  <em>AAAI</em>, 2022
+                  <br>
 
-Date
-Event
-
-
-
-
-2020.01.30
-**********
-
-
-2020.03.24
-*****
-
-
-2020.04.07
-************
-
-
-2020.06.08
-********
-
-
-2020.06.30
-...
-      </div>
-      <a href="https://cameron-chen.github.io/review-2020/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zoltan-tasi-KHD_FA43aMw.jpg" alt="2020 的复盘">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/Silver_Age/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《白银时代》读书笔记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-12-12</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        王小波
-王小波（1952-1997），中国当代著名学者，作家。代表作有《黄金时代》、《白银时代》、《青铜时代》等。
-
-
-  
-    
-  
+                  <a href="https://arxiv.org/abs/2201.09644">arXiv</a> /
+                  <a href="https://github.com/cameron-chen/mgm">code</a>
+                  <p></p>
+                </td>
+              </tr>
 
 
 
+              <table style="width:100%;border:0px;border-spacing:0px;margin-right:auto;margin-left:auto;">
+                <tbody>
+                  <tr>
+                    <td style="padding:0px">
+                      <br>
+                      <p style="text-align:right;font-size:small;">
+                        Thank <a href="https://jonbarron.info/">Jon Barron</a> for sharing his website's <a
+                          href="https://github.com/jonbarron/website">source code</a>.
+                      </p>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+        </td>
+      </tr>
+  </table>
 
-王小波是谁？这个问题在我的成长过程中数次出现。没有细读王小波作品之前，他在我的印象中有一些...
-      </div>
-      <a href="https://cameron-chen.github.io/Silver_Age/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/milard_emmanuel.jpg" alt="《白银时代》读书笔记">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/golden-age/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《黄金时代》读书笔记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-12-05</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        王小波
-王小波（1952-1997），中国当代著名学者，作家。代表作有《黄金时代》、《白银时代》、《青铜时代》等。
-
-
-  
-    
-  
-
-
-
-王小波是谁？这个问题在我的成长过程中数次出现。没有细读王小波作品之前，他在我的印象中有一些零...
-      </div>
-      <a href="https://cameron-chen.github.io/golden-age/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/lisanto.jpg" alt="《黄金时代》读书笔记">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/20-21_term1_review/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          20-21 term 1 课程学习回顾
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-11-30</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        [更新于 2020-12-05：修改了部分表述]
-[更新于 2020-12-01：修改了部分表述]
-PhD 一年级的第一学期刚刚结束了。按照学校的培养计划，我完成了三门主修课程，一门研讨课，还有一些老板布置的事情。按理说 PhD 的主要任务...
-      </div>
-      <a href="https://cameron-chen.github.io/20-21_term1_review/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/joe-green.jpg" alt="20-21 term 1 课程学习回顾">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/1984/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《1984》读书笔记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-07-25</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        乔治·奥威尔
-乔治·奥威尔（英语：George Orwell；1903年6月25日－1950年1月21日），本名埃里克·亚瑟·布莱尔（Eric Arthur Blair），英国左翼作家，新闻记者和社会评论家。
-《动物庄园》和《一九八四》为奥...
-      </div>
-      <a href="https://cameron-chen.github.io/1984/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/george-orwell-quotes-header-min.jpg" alt="《1984》读书笔记">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/PhD_Application/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          博士申请
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-07-07</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>上半年完成了 PhD 申请之后，陆陆续续有朋友问到申请相关的事情。本身我在申请的过程中有赖于前辈、朋友的帮助，同时逛论坛、帖子也让我受益匪浅，所以这里把申请流程和我的经验教训分享出来，也作为我整个申请的总结。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/PhD_Application/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/cole-keister-vEgVWRBr2VY.jpg" alt="博士申请">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/StevenJobs/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          《史蒂夫 · 乔布斯传》：我终于去读了你的传记
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-06-13</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        沃尔特 · 艾萨克森
-艾萨克森曾任阿斯彭研究所，一家设立于华盛顿特区的无党派非盈利智库的总裁、CNN的主席和首席执行官以及《时代杂志》的执行编辑。作为一名传记作家，艾萨克森曾为列奥纳多 · 达 · 芬奇、史蒂夫 · 乔布斯、本杰明 · 富兰...
-      </div>
-      <a href="https://cameron-chen.github.io/StevenJobs/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/zhang-kaiyv-dhiOkqjewAM-unsplash.jpg" alt="《史蒂夫 · 乔布斯传》：我终于去读了你的传记">
-    
-  </div>
-
-  <div class="p-8 border-b border-gray-200 dark:border-gray-700 flex relative overflow-hidden flex-col md:flex-row animated fadeIn">
-    
-    <div class="flex-1 order-2 md:order-1">
-      <h2 class="text-2xl font-semibold mb-4">
-        <a href="https://cameron-chen.github.io/Langkawi/" class="text-gray-700 dark:text-gray-200 border-b-2 border-dotted border-gray-200 dark:border-gray-400 dark:hover:border-gray-200 hover:border-gray-600 transition-all duration-100">
-          Pieces in Langkawi
-        </a>
-      </h2>
-      <div class="mb-4 text-xs text-gray-500">2020-01-11</div>
-      <div class="mb-4 text-gray-500 dark:text-gray-300">
-        <p>去兰卡威已经是去年十月的事，没有用文字记录下来，回忆早已模糊。前两天手机坏了，趁机清理了一遍照片。想想，还是搬一些到博客上吧，不然这些照片也「腐坏」了。</p>
-
-      </div>
-      <a href="https://cameron-chen.github.io/Langkawi/" class="btn">
-        Read more
-      </a>
-    </div>
-    
-      <img class="flex-shrink-0 self-start md:ml-4 mb-4 md:mb-0 rounded-sm object-cover featured-img order-1 md:order-2 w-full h-40 md:w-56 md:h-32" loading="lazy" src="https://owncloud-c.oss-cn-shanghai.aliyuncs.com/img/alessio-rinella-q1RZ6fAR.jpg" alt="Pieces in Langkawi">
-    
-  </div>
-  
-      </div>
-
-      
-  <div class="my-4 flex justify-between px-4 md:px-0">
-    
-    
-      <a href="https://cameron-chen.github.io/page/2" class="btn btn-white">
-        下一页
-        <i class="ri-arrow-right-line ml-4"></i>
-      </a>
-    
-  </div>
-
-      <footer class="py-12 text-center px-4 md:px-0" v-pre>
-  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-</footer>
-
-    </div>
-  </div>
-  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-  <script src="https://cameron-chen.github.io/media/scripts/main.js"></script>
 </body>
 
 </html>
